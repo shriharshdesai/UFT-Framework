@@ -1,0 +1,2871 @@
+{
+	"id": "14a75833-5725-4980-a633-8299baa7380d",
+	"name": "ModusLink",
+	"description": null,
+	"auth": null,
+	"events": null,
+	"variables": null,
+	"order": [],
+	"folders_order": [
+		"b446e7ee-b675-4db9-b911-853179f34f64",
+		"c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+		"2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+		"8981384a-bcdf-4847-9670-61a8c6737228",
+		"532a9831-5d55-4b1a-a09f-fd4684a31f22",
+		"ce8e28a1-9714-4e13-beeb-37eb3cf54d2e",
+		"5e201c9d-e274-4f39-9027-9d0ce044bdd8",
+		"43e93a4c-be7f-4d88-a6c6-947b9050a458",
+		"3b105381-fc96-4805-b5ab-315de9cdc241"
+	],
+	"folders": [
+		{
+			"id": "b446e7ee-b675-4db9-b911-853179f34f64",
+			"name": "Echo API",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "14a75833-5725-4980-a633-8299baa7380d",
+			"folder": null,
+			"order": [
+				"c0977bb0-b3a6-47e6-9351-53c9f1d29b57",
+				"4fa0c4d3-ec8e-47e7-a263-c8e1850cec5e",
+				"6fd77129-51b0-4c32-b0dd-0f2dabf44487",
+				"1271ae8f-27f4-40d1-b58a-883f63fcd298",
+				"fbf6d700-d6a5-427d-9c31-fdbd134b3dda",
+				"fe4c7473-ccd3-42f3-8c8e-63070c1eaaea",
+				"2a69cbdd-22be-43b1-8fd6-2028e1310b4e"
+			],
+			"folders_order": []
+		},
+		{
+			"id": "2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+			"name": "Fulfillment API -Dev",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "14a75833-5725-4980-a633-8299baa7380d",
+			"folder": null,
+			"order": [
+				"bb9e5981-8831-4952-a5d9-b58b39f029e7",
+				"a1f83197-5772-4bc6-aed8-320eb2dd9065",
+				"15159c4c-36cc-4e54-ab9f-419b28bb07f3",
+				"05e23b90-5ad6-413c-8855-abc62fbf0543",
+				"b626a927-8e52-4162-bd50-0ccc4e75c76d",
+				"23228e77-0b8c-4fcf-8155-d88ee990524d",
+				"ff485e6b-24b5-4bca-94a3-4eb58c228f1f",
+				"8f245cee-aef6-4b67-97f1-1aaab8f10f63",
+				"700c918d-fea5-40f2-9328-692a9bc1d10c",
+				"61f5266f-6d12-4cf0-906e-8674005dbe96",
+				"823609af-387a-474b-bf4b-46507e622c6a",
+				"c7d2d014-7f13-456f-ad4d-75d2c6b01da5",
+				"e103017a-efc4-4b16-8444-b824e3a1aff2"
+			],
+			"folders_order": []
+		},
+		{
+			"id": "c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+			"name": "Fulfillment API- UAT",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "14a75833-5725-4980-a633-8299baa7380d",
+			"folder": null,
+			"order": [
+				"0ccd39b3-afb9-4ae4-9629-1c6254e3668e",
+				"9af34bf8-163d-437a-8d63-4f6f38911d56",
+				"44fd00a4-9d5d-469e-a7c8-c7460d1d1652",
+				"8deffe15-8d35-4861-9198-f8046ad0d77f",
+				"2198d035-357f-4ae4-a0ce-6137f10b9b73",
+				"f12e49a6-e290-450d-821b-6fc3ca9ef670",
+				"8d6c8be6-2bd6-4956-bd14-506f06322c47",
+				"d792228d-eaca-4d57-ace6-aaa6bc5d27ec",
+				"17684395-a5ab-41f2-a76e-fb89e1b7b215",
+				"13b1e996-23d0-420b-abc8-340e63ac9822",
+				"f865bd3a-2ce6-49e8-bb1d-a9bb5aa73023",
+				"4eefaac5-24af-489f-ba4d-1ad757a5e584",
+				"060fc4e6-741a-42f3-9a77-7cef8ecaaca5"
+			],
+			"folders_order": []
+		},
+		{
+			"id": "8981384a-bcdf-4847-9670-61a8c6737228",
+			"name": "Inventory/Product API- Dev",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "14a75833-5725-4980-a633-8299baa7380d",
+			"folder": null,
+			"order": [
+				"02167bea-9786-4f64-905a-3fa196f9427a",
+				"938a3513-167d-4153-9d9e-8400e3ec43d5",
+				"b5a39553-08d4-4ab8-942b-694659f79613",
+				"8a12ba10-930f-4335-a16c-1d4ea173320b"
+			],
+			"folders_order": []
+		},
+		{
+			"id": "532a9831-5d55-4b1a-a09f-fd4684a31f22",
+			"name": "Inventory/Product API-UAT",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "14a75833-5725-4980-a633-8299baa7380d",
+			"folder": null,
+			"order": [
+				"ac8aedfa-b7b3-4cae-b2ce-f905b55205e8",
+				"e6d155bb-4dc4-480e-ad2b-44ddc03fcac2",
+				"851ee871-e37a-426d-906a-4418be4ca93b",
+				"ebb4af97-e293-4ae3-8d0c-ac55beaa013e"
+			],
+			"folders_order": []
+		},
+		{
+			"id": "5e201c9d-e274-4f39-9027-9d0ce044bdd8",
+			"name": "RMA-Portal API -Dev",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "14a75833-5725-4980-a633-8299baa7380d",
+			"folder": null,
+			"order": [
+				"fbe6e96b-fd1a-4c47-ab04-28c90ef8ac48",
+				"f0f9e140-9c90-46a0-be69-043b828b2c4f",
+				"628b21f5-a9bf-4bab-aeb6-ac24910b8330",
+				"ff779463-2836-4537-a508-eb91c04536c1"
+			],
+			"folders_order": []
+		},
+		{
+			"id": "ce8e28a1-9714-4e13-beeb-37eb3cf54d2e",
+			"name": "RMA-Portal API-UAT",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "14a75833-5725-4980-a633-8299baa7380d",
+			"folder": null,
+			"order": [
+				"7a328e00-e41d-4fec-9194-d4a209ea7c0c",
+				"a07b09eb-2e60-4d45-8f2f-01913f68c8f0",
+				"ca646444-be99-4791-be79-55d5b1fe9de5",
+				"90bb951f-195b-49dc-9b73-c2d71589aafe"
+			],
+			"folders_order": []
+		},
+		{
+			"id": "43e93a4c-be7f-4d88-a6c6-947b9050a458",
+			"name": "Tax API - UAT",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "14a75833-5725-4980-a633-8299baa7380d",
+			"folder": null,
+			"order": [
+				"a488faf7-73c8-4236-916d-1f8d1a46a7ac",
+				"253743d2-d366-461e-b87f-c8e5f9db3428",
+				"88927737-5fbf-4fa0-a5e0-0ccab2e64744",
+				"51fa4190-5baa-4e5b-9b06-b5152f2ab144",
+				"93fbfe98-d758-461f-b4d5-31d68b6c9294"
+			],
+			"folders_order": []
+		},
+		{
+			"id": "3b105381-fc96-4805-b5ab-315de9cdc241",
+			"name": "Tax API -Dev",
+			"description": "",
+			"auth": null,
+			"events": null,
+			"collection": "14a75833-5725-4980-a633-8299baa7380d",
+			"folder": null,
+			"order": [
+				"4514a00c-0dc4-47c2-bd8e-52839219b84b",
+				"7b77efd2-6873-4fab-8b7e-0badab33c2d8",
+				"ab01737e-c9b2-4a06-9ee0-de07f797fc8c",
+				"52443c24-1b68-4fdb-9cef-b030f179b4c1",
+				"4b49489f-afec-4106-ae60-52bf682d5b4b"
+			],
+			"folders_order": []
+		}
+	],
+	"requests": [
+		{
+			"id": "02167bea-9786-4f64-905a-3fa196f9427a",
+			"name": "Install BDD",
+			"url": "http://bigstickcarpet.com/postman-bdd/dist/postman-bdd.js",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"//install bdd",
+							"postman.setGlobalVariable('postmanBDD',responseBody);"
+						]
+					}
+				}
+			],
+			"folder": "8981384a-bcdf-4847-9670-61a8c6737228",
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "05e23b90-5ad6-413c-8855-abc62fbf0543",
+			"name": "Create an RMA",
+			"url": "https://moduslink-uat.azure-api.net/fullfillmentapi/v1/rmas",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"enabled": false
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "5444aca4-c291-44f6-9c51-5d736de140d0",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 201\", function () {",
+							"    pm.response.to.have.status(201);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+			"rawModeData": "NULL",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\n//Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "060fc4e6-741a-42f3-9a77-7cef8ecaaca5",
+			"name": "Retrieve RMA",
+			"url": "https://moduslink-uat.azure-api.net/fullfillmentapi/v1/rmas",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "0ccd39b3-afb9-4ae4-9629-1c6254e3668e",
+			"name": "Install BDD",
+			"url": "http://bigstickcarpet.com/postman-bdd/dist/postman-bdd.js",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"//install bdd",
+							"postman.setGlobalVariable('postmanBDD',responseBody);"
+						]
+					}
+				}
+			],
+			"folder": "c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "1271ae8f-27f4-40d1-b58a-883f63fcd298",
+			"name": "Remove Resource",
+			"url": "https://moduslink-uat.azure-api.net/echo/resource",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": false
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "DELETE",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "b446e7ee-b675-4db9-b911-853179f34f64",
+			"rawModeData": "{\r\n\t\"vehicleType\": \"train\",\r\n\t\"maxSpeed\": 125,\r\n\t\"avgSpeed\": 90,\r\n\t\"speedUnit\": \"mph\"\r\n\t\t}",
+			"headers": "//Content-Type: application/json\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "13b1e996-23d0-420b-abc8-340e63ac9822",
+			"name": "Retrieve Specific Order Details-01",
+			"url": "https://moduslink-uat.azure-api.net/fullfillmentapi/v1/orders/30192668",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "15159c4c-36cc-4e54-ab9f-419b28bb07f3",
+			"name": "Create an Order- Wrong Auth Code -Fail",
+			"url": "https://moduslink-uat.azure-api.net/fullfillmentapi/v1/orders",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "38",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "53A1EDCC-7596-4B31-9BF9-2962D3F89DF2",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "c2024ba3-d45c-4f22-bd79-21b886fe9501",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 401\", function () {",
+							"    pm.response.to.have.status(401);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+			"rawModeData": "{\r\n\r\n  \"clientRequest\": {\r\n\r\n    \"requestHeader\": {\r\n\r\n      \"externalMessageReference\": \"BGB-API_WWW0011\",\r\n\r\n      \"client\": \"Bugaboo\",\r\n\r\n      \"requestReference\": \"BGB-API_WWW0011\",\r\n\r\n      \"dateTimes\": {\r\n\r\n        \"dateTime\": [\r\n\r\n          {\r\n\r\n            \"type\": \"sent\",\r\n\r\n            \"value\": \"2018-01-06T00:00:00 +00.00\"\r\n\r\n          },\r\n\r\n          {\r\n\r\n            \"type\": \"received\",\r\n\r\n            \"value\": \"2018-02-06T13:18:37 +00.00\"\r\n\r\n          }\r\n\r\n        ]\r\n\r\n      }\r\n\r\n    },\r\n\r\n    \"order\": {\r\n\r\n      \"status\": \"created\",\r\n\r\n      \"shipCourier\": \"\",\r\n\r\n      \"shipServiceLevel\": \"12\",\r\n\r\n      \"shipServiceOption\": \"\",\r\n\r\n      \"incoTerms1\": \"CPT\",\r\n\r\n      \"incoTerms2\": \"\",\r\n\r\n      \"amounts\": {\r\n\r\n        \"amount\": [\r\n\r\n          {\r\n\r\n            \"currency\": \"EUR\",\r\n\r\n            \"type\": \"totalNet\",\r\n\r\n            \"value\": \"100.00\"\r\n\r\n          },\r\n\r\n          {\r\n\r\n            \"currency\": \"EUR\",\r\n\r\n            \"type\": \"totalTax\",\r\n\r\n            \"value\": \"0.00\"\r\n\r\n          },\r\n\r\n          {\r\n\r\n            \"currency\": \"EUR\",\r\n\r\n            \"type\": \"totalGross\",\r\n\r\n            \"value\": \"100.00\"\r\n\r\n          }\r\n\r\n        ]\r\n\r\n      },\r\n\r\n      \"dateTimes\": {\r\n\r\n        \"dateTime\": {\r\n\r\n          \"type\": \"wantedDeliveryDate\",\r\n\r\n          \"value\": \"2018-02-06T13:18:37 +00.00\"\r\n\r\n        }\r\n\r\n      },\r\n\r\n      \"notes\": \"\",\r\n\r\n      \"dynamicFields\": \"\"\r\n\r\n    },\r\n\r\n    \"payments\": {\r\n\r\n      \"payment\": {\r\n\r\n        \"paymentMethod\": \"VISA\",\r\n\r\n        \"Invoiceid\": \"\",\r\n\r\n        \"entityId\": \"ff8080813e835e83013e8d2fb3da0472\",\r\n\r\n        \"transactionId\": \"8a82944a5fa67f48015fb56c5f601ae7\",\r\n\r\n        \"acquirerId\": \"123456\",\r\n\r\n        \"amounts\": {\r\n\r\n          \"amount\": [\r\n\r\n            {\r\n\r\n              \"type\": \"capture\",\r\n\r\n              \"currency\": \"EUR\",\r\n\r\n              \"value\": \"100\"\r\n\r\n            },\r\n\r\n            {\r\n\r\n              \"currency\": \"EUR\",\r\n\r\n              \"type\": \"authorized\",\r\n\r\n              \"value\": \"100.00\"\r\n\r\n            },\r\n\r\n            {\r\n\r\n              \"currency\": \"EUR\",\r\n\r\n              \"type\": \"created\",\r\n\r\n              \"value\": \"100.00\"\r\n\r\n            }\r\n\r\n          ]\r\n\r\n        },\r\n\r\n        \"status\": \"authorized\",\r\n\r\n        \"cardData\": {\r\n\r\n          \"holder\": \"W de Boer\",\r\n\r\n          \"bin\": \"411111\",\r\n\r\n          \"last4digits\": \"1111\",\r\n\r\n          \"dateTimes\": {\r\n\r\n            \"dateTime\": [\r\n\r\n              {\r\n\r\n                \"type\": \"cardExpiryDate\",\r\n\r\n                \"value\": \"2019-12-01T00:00:00 +00.00\"\r\n\r\n              },\r\n\r\n              {\r\n\r\n                \"type\": \"authExpiryDate\",\r\n\r\n                \"value\": \"2019-09-21T00:00:00 +00.00\"\r\n\r\n              }\r\n\r\n            ]\r\n\r\n          }\r\n\r\n        }\r\n\r\n      }\r\n\r\n    },\r\n\r\n    \"partners\": {\r\n\r\n      \"partner\": [\r\n\r\n        {\r\n\r\n          \"partnerType\": \"BillTo\",\r\n\r\n          \"companyData\": {\r\n\r\n            \"name\": \"\",\r\n\r\n            \"phones\": \"\"\r\n\r\n          },\r\n\r\n          \"personData\": {\r\n\r\n            \"firstName\": \"Willem\",\r\n\r\n            \"lastName\": \"de Boer\",\r\n\r\n            \"fiscalId\": \"\",\r\n\r\n            \"phones\": {\r\n\r\n              \"phone\": {\r\n\r\n                \"type\": \"office\",\r\n\r\n                \"value\": \"31555434422\"\r\n\r\n              }\r\n\r\n            },\r\n\r\n            \"emails\": {\r\n\r\n              \"email\": {\r\n\r\n                \"type\": \"email\",\r\n\r\n                \"value\": \"wim_deboer@moduslink.com\"\r\n\r\n              }\r\n\r\n            },\r\n\r\n            \"locale\": \"nl-NL\"\r\n\r\n          },\r\n\r\n          \"addressData\": {\r\n\r\n            \"addressLines\": {\r\n\r\n              \"address\": {\r\n\r\n                \"line\": \"1\",\r\n\r\n                \"value\": \"Wapenrustlaan 11\"\r\n\r\n              }\r\n\r\n            },\r\n\r\n            \"postalCode\": \"7321DL\",\r\n\r\n            \"city\": \"Apeldoorn\",\r\n\r\n            \"countryISO2\": \"NL\"\r\n\r\n          }\r\n\r\n        },\r\n\r\n        {\r\n\r\n          \"partnerType\": \"ShipTo\",\r\n\r\n          \"companyData\": {\r\n\r\n            \"name\": \"\",\r\n\r\n            \"phones\": \"\"\r\n\r\n          },\r\n\r\n          \"personData\": {\r\n\r\n            \"firstName\": \"Willem\",\r\n\r\n            \"lastName\": \"de Boer\",\r\n\r\n             \"phones\": {\r\n\r\n              \"phone\": {\r\n\r\n                \"type\": \"office\",\r\n\r\n                \"value\": \"31555434422\"\r\n\r\n              }\r\n\r\n            },\r\n\r\n            \"emails\": {\r\n\r\n              \"email\": {\r\n\r\n                \"type\": \"email\",\r\n\r\n                \"value\": \"wim_deboer@moduslink.com\"\r\n\r\n              }\r\n\r\n            },\r\n\r\n            \"locale\": \"nl-NL\"\r\n\r\n          },\r\n\r\n          \"addressData\": {\r\n\r\n            \"addressLines\": {\r\n\r\n              \"address\": {\r\n\r\n                \"line\": \"1\",\r\n\r\n                \"value\": \"Wapenrustlaan 11\"\r\n\r\n              }\r\n\r\n            },\r\n\r\n            \"postalCode\": \"7321DL\",\r\n\r\n            \"city\": \"Apeldoorn\",\r\n\r\n            \"countryISO2\": \"NL\"\r\n\r\n          }\r\n\r\n        }\r\n\r\n      ]\r\n\r\n    },\r\n\r\n    \"items\": {\r\n\r\n      \"item\": {\r\n\r\n        \"itemId\": \"1\",\r\n\r\n        \"clientItemRef\": \"\",\r\n\r\n        \"sku\": \"440110ZW01\",\r\n\r\n        \"quantity\": {\r\n\r\n          \"uom\": \"EA\",\r\n\r\n          \"value\": \"1\"\r\n\r\n        },\r\n\r\n        \"amounts\": {\r\n\r\n         \"amount\": [\r\n\r\n            {\r\n\r\n              \"currency\": \"EUR\",\r\n\r\n              \"type\": \"grossprice\",\r\n\r\n              \"value\": \"50.00\"\r\n\r\n            },\r\n\r\n            {\r\n\r\n              \"currency\": \"EUR\",\r\n\r\n              \"type\": \"netprice\",\r\n\r\n              \"value\": \"50\"\r\n\r\n            }\r\n\r\n          ]\r\n\r\n        },\r\n\r\n        \"dateTimes\": {\r\n\r\n          \"dateTime\": {\r\n\r\n            \"type\": \"created\",\r\n\r\n            \"value\": \"2018-02-06T13:18:37 +00.00\"\r\n\r\n          }\r\n\r\n        },\r\n\r\n        \"taxLevel\": \"PHYSICAL\",\r\n\r\n        \"taxFactor\": \"1.000\",\r\n\r\n        \"pricing\": \"grossprice\",\r\n\r\n        \"localizedDescription\": \"Localised description\",\r\n\r\n        \"dynamicFields\": {\r\n\r\n          \"dynamicField\": [\r\n\r\n            {\r\n\r\n              \"name\": \"CO_CAR_MAKE\",\r\n\r\n              \"value\": \"Honda\"\r\n\r\n            },\r\n\r\n            {\r\n\r\n              \"name\": \"VIN\",\r\n\r\n              \"value\": \"1001001212121\"\r\n\r\n            },\r\n\r\n            {\r\n\r\n              \"name\": \"VAT_FACTOR\",\r\n\r\n              \"value\": \"1.000\"\r\n\r\n            }\r\n\r\n          ]\r\n\r\n        }\r\n\r\n      }\r\n\r\n    }\r\n\r\n  }\r\n\r\n}",
+			"headers": "ClientConfigId: 38\nClientAuthKey: 53A1EDCC-7596-4B31-9BF9-2962D3F89DF2\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "17684395-a5ab-41f2-a76e-fb89e1b7b215",
+			"name": "Retrieve Specific Order Details",
+			"url": "https://moduslink-uat.azure-api.net/fullfillmentapi/v1/orders/30192663",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "2198d035-357f-4ae4-a0ce-6137f10b9b73",
+			"name": "Retrieve All Order Details -- Pass",
+			"url": "https://moduslink-uat.azure-api.net/fullfillmentapi/v1/orders",
+			"description": null,
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "110",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "61B66057-D636-4BB5-810A-2FDA54FAB67E",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "05e82361-2401-4438-bb02-2ffa078e4e2a",
+						"type": "text/javascript",
+						"exec": [
+							"",
+							"// example using response assertions",
+							"pm.test(\"response should be okay to process\", function () { ",
+							"    pm.response.to.not.be.error; ",
+							"    pm.response.to.have.jsonBody(\"\"); ",
+							"    pm.response.to.not.have.jsonBody(\"error\"); ",
+							"   ",
+							"});",
+							" ",
+							"pm.test(\"Response time is less than 999ms\", function () {",
+							"    pm.expect(pm.response.responseTime).to.be.below(3000);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+			"headers": "ClientConfigId: 110\nClientAuthKey: 61B66057-D636-4BB5-810A-2FDA54FAB67E\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "23228e77-0b8c-4fcf-8155-d88ee990524d",
+			"name": "Retrieve All Order Details -- Invalid URI",
+			"url": "https://moduslink-dev.azure-api.net/fullfillmentapi/v2/orders",
+			"description": null,
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "f8a2b659-edba-4640-a20b-37ceb38f3fce",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 404\", function () {",
+							"    pm.response.to.have.status(404);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "253743d2-d366-461e-b87f-c8e5f9db3428",
+			"name": "Calculate Tax Details",
+			"url": "https://moduslink-uat.azure-api.net/tax/v1/calculateTaxDetails",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "43e93a4c-be7f-4d88-a6c6-947b9050a458",
+			"rawModeData": "{\r\n\t\"calculateTaxRequest\": {\r\n\t\t\"calculateTaxDetail\": {\r\n\t\t\t\"order\": {\r\n\t\t\t\t\"amountType\": \"NET_VALUE\",\r\n\t\t\t\t\"isCustomerCompany\": \"false\",\r\n\t\t\t\t\"buyerTaxNumber\": \"FR66502602220\",\r\n\t\t\t\t\"orderItem\": [{\r\n\t\t\t\t\t\"itemClass\": \"PHYSICAL\",\r\n\t\t\t\t\t\"itemSku\": \"A3DGL-501\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"100.00\"\r\n\t\t\t\t}, {\r\n\t\t\t\t\t\"itemClass\": \"SERVICE\",\r\n\t\t\t\t\t\"itemSku\": \"ABBRD-001\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"25.00\"\r\n\t\t\t\t}],\r\n\t\t\t\t\"currency\": \"EUR\"\r\n\t\t\t},\r\n\t\t\t\"shipFrom\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t},\r\n\t\t\t\"shipTo\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"city\": \"batavia\",\r\n\t\t\t\t\"stateProv\": \"IL\",\r\n\t\t\t\t\"postalCode\": \"60510\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n}",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "2a69cbdd-22be-43b1-8fd6-2028e1310b4e",
+			"name": "Retrieve Header Only-Cached",
+			"url": "https://moduslink-uat.azure-api.net/echo/resource[?sample][&123]",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "sample][",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "123]",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": [],
+			"folder": "b446e7ee-b675-4db9-b911-853179f34f64",
+			"rawModeData": "{\r\n\t\"vehicleType\": \"train\",\r\n\t\"maxSpeed\": 125,\r\n\t\"avgSpeed\": 90,\r\n\t\"speedUnit\": \"mph\"\r\n\t\t}",
+			"headers": "Ocp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "44fd00a4-9d5d-469e-a7c8-c7460d1d1652",
+			"name": "Create an Order- Wrong Auth Code -Fail",
+			"url": "https://moduslink-uat.azure-api.net/fullfillmentapi/v1/orders",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "38",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "53A1EDCC-7596-4B31-9BF9-2962D3F89DF2",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa51",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "c2024ba3-d45c-4f22-bd79-21b886fe9501",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 401\", function () {",
+							"    pm.response.to.have.status(401);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+			"rawModeData": "{\r\n\r\n  \"clientRequest\": {\r\n\r\n    \"requestHeader\": {\r\n\r\n      \"externalMessageReference\": \"BGB-API_WWW0011\",\r\n\r\n      \"client\": \"Bugaboo\",\r\n\r\n      \"requestReference\": \"BGB-API_WWW0011\",\r\n\r\n      \"dateTimes\": {\r\n\r\n        \"dateTime\": [\r\n\r\n          {\r\n\r\n            \"type\": \"sent\",\r\n\r\n            \"value\": \"2018-01-06T00:00:00 +00.00\"\r\n\r\n          },\r\n\r\n          {\r\n\r\n            \"type\": \"received\",\r\n\r\n            \"value\": \"2018-02-06T13:18:37 +00.00\"\r\n\r\n          }\r\n\r\n        ]\r\n\r\n      }\r\n\r\n    },\r\n\r\n    \"order\": {\r\n\r\n      \"status\": \"created\",\r\n\r\n      \"shipCourier\": \"\",\r\n\r\n      \"shipServiceLevel\": \"12\",\r\n\r\n      \"shipServiceOption\": \"\",\r\n\r\n      \"incoTerms1\": \"CPT\",\r\n\r\n      \"incoTerms2\": \"\",\r\n\r\n      \"amounts\": {\r\n\r\n        \"amount\": [\r\n\r\n          {\r\n\r\n            \"currency\": \"EUR\",\r\n\r\n            \"type\": \"totalNet\",\r\n\r\n            \"value\": \"100.00\"\r\n\r\n          },\r\n\r\n          {\r\n\r\n            \"currency\": \"EUR\",\r\n\r\n            \"type\": \"totalTax\",\r\n\r\n            \"value\": \"0.00\"\r\n\r\n          },\r\n\r\n          {\r\n\r\n            \"currency\": \"EUR\",\r\n\r\n            \"type\": \"totalGross\",\r\n\r\n            \"value\": \"100.00\"\r\n\r\n          }\r\n\r\n        ]\r\n\r\n      },\r\n\r\n      \"dateTimes\": {\r\n\r\n        \"dateTime\": {\r\n\r\n          \"type\": \"wantedDeliveryDate\",\r\n\r\n          \"value\": \"2018-02-06T13:18:37 +00.00\"\r\n\r\n        }\r\n\r\n      },\r\n\r\n      \"notes\": \"\",\r\n\r\n      \"dynamicFields\": \"\"\r\n\r\n    },\r\n\r\n    \"payments\": {\r\n\r\n      \"payment\": {\r\n\r\n        \"paymentMethod\": \"VISA\",\r\n\r\n        \"Invoiceid\": \"\",\r\n\r\n        \"entityId\": \"ff8080813e835e83013e8d2fb3da0472\",\r\n\r\n        \"transactionId\": \"8a82944a5fa67f48015fb56c5f601ae7\",\r\n\r\n        \"acquirerId\": \"123456\",\r\n\r\n        \"amounts\": {\r\n\r\n          \"amount\": [\r\n\r\n            {\r\n\r\n              \"type\": \"capture\",\r\n\r\n              \"currency\": \"EUR\",\r\n\r\n              \"value\": \"100\"\r\n\r\n            },\r\n\r\n            {\r\n\r\n              \"currency\": \"EUR\",\r\n\r\n              \"type\": \"authorized\",\r\n\r\n              \"value\": \"100.00\"\r\n\r\n            },\r\n\r\n            {\r\n\r\n              \"currency\": \"EUR\",\r\n\r\n              \"type\": \"created\",\r\n\r\n              \"value\": \"100.00\"\r\n\r\n            }\r\n\r\n          ]\r\n\r\n        },\r\n\r\n        \"status\": \"authorized\",\r\n\r\n        \"cardData\": {\r\n\r\n          \"holder\": \"W de Boer\",\r\n\r\n          \"bin\": \"411111\",\r\n\r\n          \"last4digits\": \"1111\",\r\n\r\n          \"dateTimes\": {\r\n\r\n            \"dateTime\": [\r\n\r\n              {\r\n\r\n                \"type\": \"cardExpiryDate\",\r\n\r\n                \"value\": \"2019-12-01T00:00:00 +00.00\"\r\n\r\n              },\r\n\r\n              {\r\n\r\n                \"type\": \"authExpiryDate\",\r\n\r\n                \"value\": \"2019-09-21T00:00:00 +00.00\"\r\n\r\n              }\r\n\r\n            ]\r\n\r\n          }\r\n\r\n        }\r\n\r\n      }\r\n\r\n    },\r\n\r\n    \"partners\": {\r\n\r\n      \"partner\": [\r\n\r\n        {\r\n\r\n          \"partnerType\": \"BillTo\",\r\n\r\n          \"companyData\": {\r\n\r\n            \"name\": \"\",\r\n\r\n            \"phones\": \"\"\r\n\r\n          },\r\n\r\n          \"personData\": {\r\n\r\n            \"firstName\": \"Willem\",\r\n\r\n            \"lastName\": \"de Boer\",\r\n\r\n            \"fiscalId\": \"\",\r\n\r\n            \"phones\": {\r\n\r\n              \"phone\": {\r\n\r\n                \"type\": \"office\",\r\n\r\n                \"value\": \"31555434422\"\r\n\r\n              }\r\n\r\n            },\r\n\r\n            \"emails\": {\r\n\r\n              \"email\": {\r\n\r\n                \"type\": \"email\",\r\n\r\n                \"value\": \"wim_deboer@moduslink.com\"\r\n\r\n              }\r\n\r\n            },\r\n\r\n            \"locale\": \"nl-NL\"\r\n\r\n          },\r\n\r\n          \"addressData\": {\r\n\r\n            \"addressLines\": {\r\n\r\n              \"address\": {\r\n\r\n                \"line\": \"1\",\r\n\r\n                \"value\": \"Wapenrustlaan 11\"\r\n\r\n              }\r\n\r\n            },\r\n\r\n            \"postalCode\": \"7321DL\",\r\n\r\n            \"city\": \"Apeldoorn\",\r\n\r\n            \"countryISO2\": \"NL\"\r\n\r\n          }\r\n\r\n        },\r\n\r\n        {\r\n\r\n          \"partnerType\": \"ShipTo\",\r\n\r\n          \"companyData\": {\r\n\r\n            \"name\": \"\",\r\n\r\n            \"phones\": \"\"\r\n\r\n          },\r\n\r\n          \"personData\": {\r\n\r\n            \"firstName\": \"Willem\",\r\n\r\n            \"lastName\": \"de Boer\",\r\n\r\n             \"phones\": {\r\n\r\n              \"phone\": {\r\n\r\n                \"type\": \"office\",\r\n\r\n                \"value\": \"31555434422\"\r\n\r\n              }\r\n\r\n            },\r\n\r\n            \"emails\": {\r\n\r\n              \"email\": {\r\n\r\n                \"type\": \"email\",\r\n\r\n                \"value\": \"wim_deboer@moduslink.com\"\r\n\r\n              }\r\n\r\n            },\r\n\r\n            \"locale\": \"nl-NL\"\r\n\r\n          },\r\n\r\n          \"addressData\": {\r\n\r\n            \"addressLines\": {\r\n\r\n              \"address\": {\r\n\r\n                \"line\": \"1\",\r\n\r\n                \"value\": \"Wapenrustlaan 11\"\r\n\r\n              }\r\n\r\n            },\r\n\r\n            \"postalCode\": \"7321DL\",\r\n\r\n            \"city\": \"Apeldoorn\",\r\n\r\n            \"countryISO2\": \"NL\"\r\n\r\n          }\r\n\r\n        }\r\n\r\n      ]\r\n\r\n    },\r\n\r\n    \"items\": {\r\n\r\n      \"item\": {\r\n\r\n        \"itemId\": \"1\",\r\n\r\n        \"clientItemRef\": \"\",\r\n\r\n        \"sku\": \"440110ZW01\",\r\n\r\n        \"quantity\": {\r\n\r\n          \"uom\": \"EA\",\r\n\r\n          \"value\": \"1\"\r\n\r\n        },\r\n\r\n        \"amounts\": {\r\n\r\n         \"amount\": [\r\n\r\n            {\r\n\r\n              \"currency\": \"EUR\",\r\n\r\n              \"type\": \"grossprice\",\r\n\r\n              \"value\": \"50.00\"\r\n\r\n            },\r\n\r\n            {\r\n\r\n              \"currency\": \"EUR\",\r\n\r\n              \"type\": \"netprice\",\r\n\r\n              \"value\": \"50\"\r\n\r\n            }\r\n\r\n          ]\r\n\r\n        },\r\n\r\n        \"dateTimes\": {\r\n\r\n          \"dateTime\": {\r\n\r\n            \"type\": \"created\",\r\n\r\n            \"value\": \"2018-02-06T13:18:37 +00.00\"\r\n\r\n          }\r\n\r\n        },\r\n\r\n        \"taxLevel\": \"PHYSICAL\",\r\n\r\n        \"taxFactor\": \"1.000\",\r\n\r\n        \"pricing\": \"grossprice\",\r\n\r\n        \"localizedDescription\": \"Localised description\",\r\n\r\n        \"dynamicFields\": {\r\n\r\n          \"dynamicField\": [\r\n\r\n            {\r\n\r\n              \"name\": \"CO_CAR_MAKE\",\r\n\r\n              \"value\": \"Honda\"\r\n\r\n            },\r\n\r\n            {\r\n\r\n              \"name\": \"VIN\",\r\n\r\n              \"value\": \"1001001212121\"\r\n\r\n            },\r\n\r\n            {\r\n\r\n              \"name\": \"VAT_FACTOR\",\r\n\r\n              \"value\": \"1.000\"\r\n\r\n            }\r\n\r\n          ]\r\n\r\n        }\r\n\r\n      }\r\n\r\n    }\r\n\r\n  }\r\n\r\n}",
+			"headers": "ClientConfigId: 38\nClientAuthKey: 53A1EDCC-7596-4B31-9BF9-2962D3F89DF2\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa51\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "4514a00c-0dc4-47c2-bd8e-52839219b84b",
+			"name": "Install BDD",
+			"url": "http://bigstickcarpet.com/postman-bdd/dist/postman-bdd.js",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"//install bdd",
+							"postman.setGlobalVariable('postmanBDD',responseBody);"
+						]
+					}
+				}
+			],
+			"folder": "3b105381-fc96-4805-b5ab-315de9cdc241",
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "4b49489f-afec-4106-ae60-52bf682d5b4b",
+			"name": "Calculate Tax Details --Invalid Version/URI",
+			"url": "https://moduslink-dev.azure-api.net/tax/v2/calculateTaxDetails",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "a1f228d8-9790-46ca-98e0-fad8c908d44e",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 404\", function () {",
+							"    pm.response.to.have.status(404);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "3b105381-fc96-4805-b5ab-315de9cdc241",
+			"rawModeData": "{\r\n\t\"calculateTaxRequest\": {\r\n\t\t\"calculateTaxDetail\": {\r\n\t\t\t\"order\": {\r\n\t\t\t\t\"amountType\": \"NET_VALUE\",\r\n\t\t\t\t\"isCustomerCompany\": \"false\",\r\n\t\t\t\t\"buyerTaxNumber\": \"FR66502602220\",\r\n\t\t\t\t\"orderItem\": [{\r\n\t\t\t\t\t\"itemClass\": \"PHYSICAL\",\r\n\t\t\t\t\t\"itemSku\": \"A3DGL-501\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"100.00\"\r\n\t\t\t\t}, {\r\n\t\t\t\t\t\"itemClass\": \"SERVICE\",\r\n\t\t\t\t\t\"itemSku\": \"ABBRD-001\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"25.00\"\r\n\t\t\t\t}],\r\n\t\t\t\t\"currency\": \"EUR\"\r\n\t\t\t},\r\n\t\t\t\"shipFrom\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t},\r\n\t\t\t\"shipTo\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"city\": \"batavia\",\r\n\t\t\t\t\"stateProv\": \"IL\",\r\n\t\t\t\t\"postalCode\": \"60510\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n}",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "4eefaac5-24af-489f-ba4d-1ad757a5e584",
+			"name": "Retrieve Specific Order Details- Non-Existing ID ID-Fail",
+			"url": "https://moduslink-uat.azure-api.net/fullfillmentapi/v1/orders/190026000",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "ab400afd-d956-433d-b19d-88ff22d4f87a",
+						"type": "text/javascript",
+						"exec": [
+							"// Non Existing Order ID : Should fail with 404",
+							"pm.test(\"Status code is 404\", function () {",
+							"    pm.response.to.have.status(404);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "4fa0c4d3-ec8e-47e7-a263-c8e1850cec5e",
+			"name": "Create Resource",
+			"url": "https://moduslink-uat.azure-api.net/echo/resource",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "b446e7ee-b675-4db9-b911-853179f34f64",
+			"rawModeData": "{\r\n\t\"vehicleType\": \"train\",\r\n\t\"maxSpeed\": 125,\r\n\t\"avgSpeed\": 90,\r\n\t\"speedUnit\": \"mph\"\r\n\t\t}",
+			"headers": "Content-Type: application/json\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "51fa4190-5baa-4e5b-9b06-b5152f2ab144",
+			"name": "Calculate Tax Details -ccid-118",
+			"url": "https://moduslink-uat.azure-api.net/tax/v1/calculateTaxDetails",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "118",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "5C0FDFDE-B714-42AE-BF4B-EB5E1409C53D",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "43e93a4c-be7f-4d88-a6c6-947b9050a458",
+			"rawModeData": "{\r\n\t\"calculateTaxRequest\": {\r\n\t\t\"calculateTaxDetail\": {\r\n\t\t\t\"order\": {\r\n\t\t\t\t\"amountType\": \"NET_VALUE\",\r\n\t\t\t\t\"isCustomerCompany\": \"false\",\r\n\t\t\t\t\"buyerTaxNumber\": \"FR66502602220\",\r\n\t\t\t\t\"orderItem\": [{\r\n\t\t\t\t\t\"itemClass\": \"PHYSICAL\",\r\n\t\t\t\t\t\"itemSku\": \"503001\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"551.00\"\r\n\t\t\t\t}, {\r\n\t\t\t\t\t\"itemClass\": \"SERVICE\",\r\n\t\t\t\t\t\"itemSku\": \"295-00002-001\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"70.00\"\r\n\t\t\t\t}],\r\n\t\t\t\t\"currency\": \"EUR\"\r\n\t\t\t},\r\n\t\t\t\"shipFrom\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t},\r\n\t\t\t\"shipTo\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"city\": \"batavia\",\r\n\t\t\t\t\"stateProv\": \"IL\",\r\n\t\t\t\t\"postalCode\": \"60510\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n}",
+			"headers": "ClientConfigId: 118\nClientAuthKey: 5C0FDFDE-B714-42AE-BF4B-EB5E1409C53D\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "52443c24-1b68-4fdb-9cef-b030f179b4c1",
+			"name": "Calculate Tax Details -ccid-118",
+			"url": "https://moduslink-dev.azure-api.net/tax/v1/calculateTaxDetails",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "118",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "5C0FDFDE-B714-42AE-BF4B-EB5E1409C53D",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "3b105381-fc96-4805-b5ab-315de9cdc241",
+			"rawModeData": "{\r\n\t\"calculateTaxRequest\": {\r\n\t\t\"calculateTaxDetail\": {\r\n\t\t\t\"order\": {\r\n\t\t\t\t\"amountType\": \"NET_VALUE\",\r\n\t\t\t\t\"isCustomerCompany\": \"false\",\r\n\t\t\t\t\"buyerTaxNumber\": \"FR66502602220\",\r\n\t\t\t\t\"orderItem\": [{\r\n\t\t\t\t\t\"itemClass\": \"PHYSICAL\",\r\n\t\t\t\t\t\"itemSku\": \"503001\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"551.00\"\r\n\t\t\t\t}, {\r\n\t\t\t\t\t\"itemClass\": \"SERVICE\",\r\n\t\t\t\t\t\"itemSku\": \"295-00002-001\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"70.00\"\r\n\t\t\t\t}],\r\n\t\t\t\t\"currency\": \"EUR\"\r\n\t\t\t},\r\n\t\t\t\"shipFrom\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t},\r\n\t\t\t\"shipTo\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"city\": \"batavia\",\r\n\t\t\t\t\"stateProv\": \"IL\",\r\n\t\t\t\t\"postalCode\": \"60510\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n}",
+			"headers": "ClientConfigId: 118\nClientAuthKey: 5C0FDFDE-B714-42AE-BF4B-EB5E1409C53D\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "61f5266f-6d12-4cf0-906e-8674005dbe96",
+			"name": "Retrieve Specific Order Details-01",
+			"url": "https://moduslink-dev.azure-api.net/fullfillmentapi/v1/orders/30192668",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "628b21f5-a9bf-4bab-aeb6-ac24910b8330",
+			"name": "Retrieve RMA Token",
+			"url": "https://moduslink-dev.azure-api.net/rmaportalapi/v1/rmaTokens?requestReference=TAS_BT16_ISS8111_2_R",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "requestReference",
+					"value": "TAS_BT16_ISS8111_2_R",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "5e201c9d-e274-4f39-9027-9d0ce044bdd8",
+			"rawModeData": "{\r\n\t\"requestHeader\": {\r\n\t\t\"externalMessageReference\": \"TAS_BT16_ISS8111_2_R\",\r\n\t\t\"requestReference\": \"TAS_BT16_ISS8111_2_R\"\r\n\t},\r\n\t\"rma\": {\r\n\t\t\"returnReason\": \"Product is damaged in Shipping\",\r\n\t\t\"userReference\": \"Willem de Boer\",\r\n\t\t\"transactionId\": \"25a5ae5b-51fd-4250-9e6b-11ae149c8dcf\",\r\n\t\t\"language\": \"en\",\r\n\t\t\"clientReturnURL\": \"https://google.com\",\r\n\t\t\"amount\": {\r\n\t\t\t\"type\": \"totalGross\",\r\n\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\"value\": \"242.00\"\r\n\t\t},\r\n\t\t\"dateTime\": {\r\n\t\t\t\"type\": \"order\",\r\n\t\t\t\"value\": \"2018-02-08T15:45:58 +00.00\"\r\n\t\t},\r\n\t\t\"dynamicField\": [{\r\n\t\t\t\t\"name\": \"RMAOrderRef\",\r\n\t\t\t\t\"value\": \"TAS_BT16_ISS8111_2_R\"\r\n\t\t\t},\r\n\t\t\t{\r\n\t\t\t\t\"name\": \"name\",\r\n\t\t\t\t\"value\": \"Value\"\r\n\t\t\t}\r\n\t\t]\r\n\t},\r\n\t\"partner\": [{\r\n\t\t\t\"partnerType\": \"BillTo\",\r\n\t\t\t\"companyData\": {\r\n\t\t\t\t\"name\": \"Company name\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"office\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t}\r\n\t\t\t},\r\n\t\t\t\"personData\": {\r\n\t\t\t\t\"firstName\": \"John_GB\",\r\n\t\t\t\t\"lastName\": \"Doe_GB\",\r\n\t\t\t\t\"fiscalid\": \"VAT_number\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"home\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t},\r\n\t\t\t\t\"email\": {\r\n\t\t\t\t\t\"type\": \"email\",\r\n\t\t\t\t\t\"value\": \"wdeboer@moduslink.com\"\r\n\t\t\t\t},\r\n\t\t\t\t\"locale\": \"en-GB\"\r\n\t\t\t},\r\n\t\t\t\"addressData\": {\r\n\t\t\t\t\"address\": [{\r\n\t\t\t\t\t\t\"line\": \"1\",\r\n\t\t\t\t\t\t\"value\": \"Lakeside Rd\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"line\": \"2\",\r\n\t\t\t\t\t\t\"value\": \"27\"\r\n\t\t\t\t\t}\r\n\t\t\t\t],\r\n\t\t\t\t\"postalCode\": \"N13 4PS\",\r\n\t\t\t\t\"city\": \"London\",\r\n\t\t\t\t\"countryName\": \"United Kingdom\",\r\n\t\t\t\t\"countryISO3\": \"GBR\"\r\n\t\t\t}\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"partnerType\": \"ShipTo\",\r\n\t\t\t\"companyData\": {\r\n\t\t\t\t\"name\": \"Company name\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"office\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t}\r\n\t\t\t},\r\n\t\t\t\"personData\": {\r\n\t\t\t\t\"firstName\": \"John_GB\",\r\n\t\t\t\t\"lastName\": \"Doe_GB\",\r\n\t\t\t\t\"fiscalid\": \"VAT_number\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"home\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t},\r\n\t\t\t\t\"email\": {\r\n\t\t\t\t\t\"type\": \"email\",\r\n\t\t\t\t\t\"value\": \"rene_schoeman@moduslink.com\"\r\n\t\t\t\t},\r\n\t\t\t\t\"locale\": \"en-GB\"\r\n\t\t\t},\r\n\t\t\t\"addressData\": {\r\n\t\t\t\t\"address\": [{\r\n\t\t\t\t\t\t\"line\": \"1\",\r\n\t\t\t\t\t\t\"value\": \"Lakeside Rd\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"line\": \"2\",\r\n\t\t\t\t\t\t\"value\": \"27\"\r\n\t\t\t\t\t}\r\n\t\t\t\t],\r\n\t\t\t\t\"postalCode\": \"N13 4PS\",\r\n\t\t\t\t\"city\": \"London\",\r\n\t\t\t\t\"countryName\": \"United Kingdom\",\r\n\t\t\t\t\"countryISO3\": \"GBR\"\r\n\t\t\t}\r\n\t\t}\r\n\t],\r\n\t\"item\": [{\r\n\t\t\t\"sku\": \"131270\",\r\n\t\t\t\"itemDescription\": \"Description\",\r\n\t\t\t\"quantity\": {\r\n\t\t\t\t\"uom\": \"EA\",\r\n\t\t\t\t\"value\": \"15\"\r\n\t\t\t},\r\n\t\t\t\"amount\": [{\r\n\t\t\t\t\t\"type\": \"netprice\",\r\n\t\t\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"type\": \"totaltax\",\r\n\t\t\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\t\t\"value\": \"0.00\"\r\n\t\t\t\t}\r\n\t\t\t],\r\n\t\t\t\"dynamicField\": [{\r\n\t\t\t\t\t\"name\": \"RMALineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMAOrderLineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMALinePrice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t}\r\n\t\t\t]\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"sku\": \"131270\",\r\n\t\t\t\"itemDescription\": \"Description\",\r\n\t\t\t\"quantity\": {\r\n\t\t\t\t\"uom\": \"EA\",\r\n\t\t\t\t\"value\": \"15\"\r\n\t\t\t},\r\n\t\t\t\"amount\": [{\r\n\t\t\t\t\t\"type\": \"netprice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"type\": \"totaltax\",\r\n\t\t\t\t\t\"value\": \"0.00\"\r\n\t\t\t\t}\r\n\t\t\t],\r\n\t\t\t\"dynamicField\": [{\r\n\t\t\t\t\t\"name\": \"RMALineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMAOrderLineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMALinePrice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t}\r\n\t\t\t]\r\n\t\t}\r\n\t]\r\n}",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "6fd77129-51b0-4c32-b0dd-0f2dabf44487",
+			"name": "Modify Resource",
+			"url": "https://moduslink-uat.azure-api.net/echo/resource",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "PUT",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "b446e7ee-b675-4db9-b911-853179f34f64",
+			"rawModeData": "{\r\n\t\"vehicleType\": \"train\",\r\n\t\"maxSpeed\": 125,\r\n\t\"avgSpeed\": 90,\r\n\t\"speedUnit\": \"mph\"\r\n\t\t}",
+			"headers": "Ocp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "700c918d-fea5-40f2-9328-692a9bc1d10c",
+			"name": "Retrieve Specific Order Details",
+			"url": "https://moduslink-dev.azure-api.net/fullfillmentapi/v1/orders/30097903",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "7a328e00-e41d-4fec-9194-d4a209ea7c0c",
+			"name": "Install BDD",
+			"url": "http://bigstickcarpet.com/postman-bdd/dist/postman-bdd.js",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"//install bdd",
+							"postman.setGlobalVariable('postmanBDD',responseBody);"
+						]
+					}
+				}
+			],
+			"folder": "ce8e28a1-9714-4e13-beeb-37eb3cf54d2e",
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "7b77efd2-6873-4fab-8b7e-0badab33c2d8",
+			"name": "Calculate Tax Details",
+			"url": "https://moduslink-dev.azure-api.net/tax/v1/calculateTaxDetails",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "3b105381-fc96-4805-b5ab-315de9cdc241",
+			"rawModeData": "{\r\n\t\"calculateTaxRequest\": {\r\n\t\t\"calculateTaxDetail\": {\r\n\t\t\t\"order\": {\r\n\t\t\t\t\"amountType\": \"NET_VALUE\",\r\n\t\t\t\t\"isCustomerCompany\": \"false\",\r\n\t\t\t\t\"buyerTaxNumber\": \"FR66502602220\",\r\n\t\t\t\t\"orderItem\": [{\r\n\t\t\t\t\t\"itemClass\": \"PHYSICAL\",\r\n\t\t\t\t\t\"itemSku\": \"A3DGL-501\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"100.00\"\r\n\t\t\t\t}, {\r\n\t\t\t\t\t\"itemClass\": \"SERVICE\",\r\n\t\t\t\t\t\"itemSku\": \"ABBRD-001\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"25.00\"\r\n\t\t\t\t}],\r\n\t\t\t\t\"currency\": \"EUR\"\r\n\t\t\t},\r\n\t\t\t\"shipFrom\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t},\r\n\t\t\t\"shipTo\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"city\": \"batavia\",\r\n\t\t\t\t\"stateProv\": \"IL\",\r\n\t\t\t\t\"postalCode\": \"60510\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n}",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "823609af-387a-474b-bf4b-46507e622c6a",
+			"name": "Retrieve Specific Order Details- Wrong ID ID-Fail",
+			"url": "https://moduslink-dev.azure-api.net/fullfillmentapi/v1/orders/00010000",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "d12e8eb8-4288-4ef1-bf21-a18b8e7662cb",
+						"type": "text/javascript",
+						"exec": [
+							"// Wrong Order ID : Should fail with 404",
+							"pm.test(\"Status code is 404\", function () {",
+							"    pm.response.to.have.status(404);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "851ee871-e37a-426d-906a-4418be4ca93b",
+			"name": "Retrieve Inventory Details Invalid URI",
+			"url": "https://moduslink-uat.azure-api.net/productapi/v2/inventory?sku=A3DGL-501,ABBRD-001",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "sku",
+					"value": "A3DGL-501,ABBRD-001",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "719a67f3-3975-49e6-93a7-3f393eaaf9fe",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 404\", function () {",
+							"    pm.response.to.have.status(404);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "532a9831-5d55-4b1a-a09f-fd4684a31f22",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "88927737-5fbf-4fa0-a5e0-0ccab2e64744",
+			"name": "Calculate Tax Details -ccid-114",
+			"url": "https://moduslink-uat.azure-api.net/tax/v1/calculateTaxDetails",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "114",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "43006300-9E2A-4ED5-A001-126712985994",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "43e93a4c-be7f-4d88-a6c6-947b9050a458",
+			"rawModeData": "{\r\n\t\"calculateTaxRequest\": {\r\n\t\t\"calculateTaxDetail\": {\r\n\t\t\t\"order\": {\r\n\t\t\t\t\"amountType\": \"NET_VALUE\",\r\n\t\t\t\t\"isCustomerCompany\": \"false\",\r\n\t\t\t\t\"buyerTaxNumber\": \"FR66502602220\",\r\n\t\t\t\t\"orderItem\": [{\r\n\t\t\t\t\t\"itemClass\": \"PHYSICAL\",\r\n\t\t\t\t\t\"itemSku\": \"2007181\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"100.00\"\r\n\t\t\t\t}, {\r\n\t\t\t\t\t\"itemClass\": \"SERVICE\",\r\n\t\t\t\t\t\"itemSku\": \"1103457\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"25.00\"\r\n\t\t\t\t}],\r\n\t\t\t\t\"currency\": \"EUR\"\r\n\t\t\t},\r\n\t\t\t\"shipFrom\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t},\r\n\t\t\t\"shipTo\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"city\": \"batavia\",\r\n\t\t\t\t\"stateProv\": \"IL\",\r\n\t\t\t\t\"postalCode\": \"60510\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n}",
+			"headers": "ClientConfigId: 114\nClientAuthKey: 43006300-9E2A-4ED5-A001-126712985994\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "8a12ba10-930f-4335-a16c-1d4ea173320b",
+			"name": "Create Inventory Snapshot",
+			"url": "https://moduslink-dev.azure-api.net/productapi/v1/setInventorySnapshot",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "8981384a-bcdf-4847-9670-61a8c6737228",
+			"rawModeData": "{\r\n\t\"inventory\": [{\r\n\t\t\"sku\": \"10010809\",\r\n\t\t\"qty\": 1411,\r\n\t\t\"stockLocationName\": \"RBEMEA\"\r\n\t}, {\r\n\t\t\"sku\": \"10022457\",\r\n\t\t\"qty\": 1216,\r\n\t\t\"stockLocationName\": \"RBEMEA\"\r\n\t}]\r\n}",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "8d6c8be6-2bd6-4956-bd14-506f06322c47",
+			"name": "Retrieve All Order Details-Wrong Apim-Subscription-Key--Fail",
+			"url": "https://moduslink-uat.azure-api.net/fullfillmentapi/v1/orders",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa51",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "f65f751a-28c4-47d6-b06f-3ee42faea5e4",
+						"type": "text/javascript",
+						"exec": [
+							"//Access denied due to WRONG Apim-Subscription-Key",
+							"pm.test(\"Status code is 401\", function () {",
+							"    pm.response.to.have.status(401);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa51\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "8deffe15-8d35-4861-9198-f8046ad0d77f",
+			"name": "Create an RMA",
+			"url": "https://moduslink-uat.azure-api.net/fullfillmentapi/v1/rmas",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"enabled": false
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "5444aca4-c291-44f6-9c51-5d736de140d0",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 201\", function () {",
+							"    pm.response.to.have.status(201);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+			"rawModeData": "NULL",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n//Content-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "8f245cee-aef6-4b67-97f1-1aaab8f10f63",
+			"name": "Retrieve All Order Details-Wrong Client Code-Failed",
+			"url": "https://moduslink-dev.azure-api.netfullfillmentapi/v1/orders",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "490",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0b825ae0-4b30-4878-8357-a8f562d16b00",
+						"type": "text/javascript",
+						"exec": [
+							"//Access denied due to WRONG Client Code",
+							"pm.test(\"Status code is 500\", function () {",
+							"    pm.response.to.have.status(500);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+			"headers": "ClientConfigId: 490\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "90bb951f-195b-49dc-9b73-c2d71589aafe",
+			"name": "Retrieve RMA Token Invalid URI",
+			"url": "https://moduslink-uat.azure-api.net/rmaportalapi/v2/rmaTokens?requestReference=TAS_BT16_ISS8111_2_R",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "requestReference",
+					"value": "TAS_BT16_ISS8111_2_R",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "c0238c9c-0553-4a25-9a4c-fb2fb750361a",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 404\", function () {",
+							"    pm.response.to.have.status(404);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "ce8e28a1-9714-4e13-beeb-37eb3cf54d2e",
+			"rawModeData": "{\r\n\t\"requestHeader\": {\r\n\t\t\"externalMessageReference\": \"TAS_BT16_ISS8111_2_R\",\r\n\t\t\"requestReference\": \"TAS_BT16_ISS8111_2_R\"\r\n\t},\r\n\t\"rma\": {\r\n\t\t\"returnReason\": \"Product is damaged in Shipping\",\r\n\t\t\"userReference\": \"Willem de Boer\",\r\n\t\t\"transactionId\": \"25a5ae5b-51fd-4250-9e6b-11ae149c8dcf\",\r\n\t\t\"language\": \"en\",\r\n\t\t\"clientReturnURL\": \"https://google.com\",\r\n\t\t\"amount\": {\r\n\t\t\t\"type\": \"totalGross\",\r\n\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\"value\": \"242.00\"\r\n\t\t},\r\n\t\t\"dateTime\": {\r\n\t\t\t\"type\": \"order\",\r\n\t\t\t\"value\": \"2018-02-08T15:45:58 +00.00\"\r\n\t\t},\r\n\t\t\"dynamicField\": [{\r\n\t\t\t\t\"name\": \"RMAOrderRef\",\r\n\t\t\t\t\"value\": \"TAS_BT16_ISS8111_2_R\"\r\n\t\t\t},\r\n\t\t\t{\r\n\t\t\t\t\"name\": \"name\",\r\n\t\t\t\t\"value\": \"Value\"\r\n\t\t\t}\r\n\t\t]\r\n\t},\r\n\t\"partner\": [{\r\n\t\t\t\"partnerType\": \"BillTo\",\r\n\t\t\t\"companyData\": {\r\n\t\t\t\t\"name\": \"Company name\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"office\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t}\r\n\t\t\t},\r\n\t\t\t\"personData\": {\r\n\t\t\t\t\"firstName\": \"John_GB\",\r\n\t\t\t\t\"lastName\": \"Doe_GB\",\r\n\t\t\t\t\"fiscalid\": \"VAT_number\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"home\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t},\r\n\t\t\t\t\"email\": {\r\n\t\t\t\t\t\"type\": \"email\",\r\n\t\t\t\t\t\"value\": \"wdeboer@moduslink.com\"\r\n\t\t\t\t},\r\n\t\t\t\t\"locale\": \"en-GB\"\r\n\t\t\t},\r\n\t\t\t\"addressData\": {\r\n\t\t\t\t\"address\": [{\r\n\t\t\t\t\t\t\"line\": \"1\",\r\n\t\t\t\t\t\t\"value\": \"Lakeside Rd\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"line\": \"2\",\r\n\t\t\t\t\t\t\"value\": \"27\"\r\n\t\t\t\t\t}\r\n\t\t\t\t],\r\n\t\t\t\t\"postalCode\": \"N13 4PS\",\r\n\t\t\t\t\"city\": \"London\",\r\n\t\t\t\t\"countryName\": \"United Kingdom\",\r\n\t\t\t\t\"countryISO3\": \"GBR\"\r\n\t\t\t}\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"partnerType\": \"ShipTo\",\r\n\t\t\t\"companyData\": {\r\n\t\t\t\t\"name\": \"Company name\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"office\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t}\r\n\t\t\t},\r\n\t\t\t\"personData\": {\r\n\t\t\t\t\"firstName\": \"John_GB\",\r\n\t\t\t\t\"lastName\": \"Doe_GB\",\r\n\t\t\t\t\"fiscalid\": \"VAT_number\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"home\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t},\r\n\t\t\t\t\"email\": {\r\n\t\t\t\t\t\"type\": \"email\",\r\n\t\t\t\t\t\"value\": \"rene_schoeman@moduslink.com\"\r\n\t\t\t\t},\r\n\t\t\t\t\"locale\": \"en-GB\"\r\n\t\t\t},\r\n\t\t\t\"addressData\": {\r\n\t\t\t\t\"address\": [{\r\n\t\t\t\t\t\t\"line\": \"1\",\r\n\t\t\t\t\t\t\"value\": \"Lakeside Rd\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"line\": \"2\",\r\n\t\t\t\t\t\t\"value\": \"27\"\r\n\t\t\t\t\t}\r\n\t\t\t\t],\r\n\t\t\t\t\"postalCode\": \"N13 4PS\",\r\n\t\t\t\t\"city\": \"London\",\r\n\t\t\t\t\"countryName\": \"United Kingdom\",\r\n\t\t\t\t\"countryISO3\": \"GBR\"\r\n\t\t\t}\r\n\t\t}\r\n\t],\r\n\t\"item\": [{\r\n\t\t\t\"sku\": \"131270\",\r\n\t\t\t\"itemDescription\": \"Description\",\r\n\t\t\t\"quantity\": {\r\n\t\t\t\t\"uom\": \"EA\",\r\n\t\t\t\t\"value\": \"15\"\r\n\t\t\t},\r\n\t\t\t\"amount\": [{\r\n\t\t\t\t\t\"type\": \"netprice\",\r\n\t\t\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"type\": \"totaltax\",\r\n\t\t\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\t\t\"value\": \"0.00\"\r\n\t\t\t\t}\r\n\t\t\t],\r\n\t\t\t\"dynamicField\": [{\r\n\t\t\t\t\t\"name\": \"RMALineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMAOrderLineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMALinePrice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t}\r\n\t\t\t]\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"sku\": \"131270\",\r\n\t\t\t\"itemDescription\": \"Description\",\r\n\t\t\t\"quantity\": {\r\n\t\t\t\t\"uom\": \"EA\",\r\n\t\t\t\t\"value\": \"15\"\r\n\t\t\t},\r\n\t\t\t\"amount\": [{\r\n\t\t\t\t\t\"type\": \"netprice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"type\": \"totaltax\",\r\n\t\t\t\t\t\"value\": \"0.00\"\r\n\t\t\t\t}\r\n\t\t\t],\r\n\t\t\t\"dynamicField\": [{\r\n\t\t\t\t\t\"name\": \"RMALineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMAOrderLineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMALinePrice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t}\r\n\t\t\t]\r\n\t\t}\r\n\t]\r\n}",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "938a3513-167d-4153-9d9e-8400e3ec43d5",
+			"name": "Retrieve Inventory Details using SKU ID",
+			"url": "https://moduslink-dev.azure-api.net/productapi/v1/inventory?sku=A3DGL-501,ABBRD-001",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "sku",
+					"value": "A3DGL-501,ABBRD-001",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "8981384a-bcdf-4847-9670-61a8c6737228",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "93fbfe98-d758-461f-b4d5-31d68b6c9294",
+			"name": "Calculate Tax Details --Invalid Version/URI",
+			"url": "https://moduslink-uat.azure-api.net/tax/v2/calculateTaxDetails",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "a1f228d8-9790-46ca-98e0-fad8c908d44e",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 404\", function () {",
+							"    pm.response.to.have.status(404);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "43e93a4c-be7f-4d88-a6c6-947b9050a458",
+			"rawModeData": "{\r\n\t\"calculateTaxRequest\": {\r\n\t\t\"calculateTaxDetail\": {\r\n\t\t\t\"order\": {\r\n\t\t\t\t\"amountType\": \"NET_VALUE\",\r\n\t\t\t\t\"isCustomerCompany\": \"false\",\r\n\t\t\t\t\"buyerTaxNumber\": \"FR66502602220\",\r\n\t\t\t\t\"orderItem\": [{\r\n\t\t\t\t\t\"itemClass\": \"PHYSICAL\",\r\n\t\t\t\t\t\"itemSku\": \"A3DGL-501\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"100.00\"\r\n\t\t\t\t}, {\r\n\t\t\t\t\t\"itemClass\": \"SERVICE\",\r\n\t\t\t\t\t\"itemSku\": \"ABBRD-001\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"25.00\"\r\n\t\t\t\t}],\r\n\t\t\t\t\"currency\": \"EUR\"\r\n\t\t\t},\r\n\t\t\t\"shipFrom\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t},\r\n\t\t\t\"shipTo\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"city\": \"batavia\",\r\n\t\t\t\t\"stateProv\": \"IL\",\r\n\t\t\t\t\"postalCode\": \"60510\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n}",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "9af34bf8-163d-437a-8d63-4f6f38911d56",
+			"name": "Create an Order",
+			"url": "https://moduslink-uat.azure-api.net/fullfillmentapi/v1/orders",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "114",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "43006300-9E2A-4ED5-A001-126712985994",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "21516404-b2cc-4427-8a8c-6733b5cc039e",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 201\", function () {",
+							"    pm.response.to.have.status(201);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+			"rawModeData": "{\r\n  \"clientRequest\": {\r\n    \"requestHeader\": {\r\n      \"externalMessageReference\": \"HERE-RD-6-000567\",\r\n      \"requestReference\": \"HERE-RD-6-000567\",\r\n      \"dateTimes\": {\r\n        \"dateTime\": [\r\n          {\r\n            \"type\": \"sent\",\r\n            \"value\": \"2018-01-06T00:00:00 +00.00\"\r\n          },\r\n          {\r\n            \"type\": \"received\",\r\n            \"value\": \"2018-02-06T13:18:37 +00.00\"\r\n          }\r\n        ]\r\n      }\r\n    },\r\n    \"order\": {\r\n      \"status\": \"created\",\r\n      \"shipCourier\": \"\",\r\n      \"shipServiceLevel\": \"12\",\r\n      \"shipServiceOption\": \"\",\r\n      \"incoTerms1\": \"CPT\",\r\n      \"incoTerms2\": \"\",\r\n      \"amounts\": {\r\n        \"amount\": [\r\n          {\r\n            \"currency\": \"EUR\",\r\n            \"type\": \"totalNet\",\r\n            \"value\": \"100.00\"\r\n          },\r\n          {\r\n            \"currency\": \"EUR\",\r\n            \"type\": \"totalTax\",\r\n            \"value\": \"0.00\"\r\n          },\r\n          {\r\n            \"currency\": \"EUR\",\r\n            \"type\": \"totalGross\",\r\n            \"value\": \"100.00\"\r\n          }\r\n        ]\r\n      },\r\n      \"dateTimes\": {\r\n        \"dateTime\": {\r\n          \"type\": \"wantedDeliveryDate\",\r\n          \"value\": \"2018-02-06T13:18:37 +00.00\"\r\n        }\r\n      },\r\n      \"notes\": \"\",\r\n      \"dynamicFields\": \"\"\r\n    },\r\n    \"payments\": {\r\n      \"payment\": {\r\n        \"paymentMethod\": \"Visa\",\r\n        \"Invoiceid\": \"\",\r\n        \"entityId\": \"ff8080813e835e83013e8d2fb3da0472\",\r\n        \"transactionId\": \"8a82944a5fa67f48015fb56c5f601ae7\",\r\n        \"acquirerId\": \"123456\",\r\n        \"amounts\": {\r\n          \"amount\": [\r\n            {\r\n              \"type\": \"capture\",\r\n              \"currency\": \"EUR\",\r\n              \"value\": \"100\"\r\n            },\r\n            {\r\n              \"currency\": \"EUR\",\r\n              \"type\": \"authorized\",\r\n              \"value\": \"100.00\"\r\n            },\r\n            {\r\n              \"currency\": \"EUR\",\r\n              \"type\": \"created\",\r\n              \"value\": \"100.00\"\r\n            }\r\n          ]\r\n        },\r\n        \"status\": \"authorized\",\r\n        \"cardData\": {\r\n          \"holder\": \"W de Boer\",\r\n          \"bin\": \"411111\",\r\n          \"last4digits\": \"1111\",\r\n          \"dateTimes\": {\r\n            \"dateTime\": [\r\n              {\r\n                \"type\": \"cardExpiryDate\",\r\n                \"value\": \"2019-12-01T00:00:00 +00.00\"\r\n              },\r\n              {\r\n                \"type\": \"authExpiryDate\",\r\n                \"value\": \"2019-09-21T00:00:00 +00.00\"\r\n              }\r\n            ]\r\n          }\r\n        }\r\n      }\r\n    },\r\n    \"partners\": {\r\n      \"partner\": [\r\n        {\r\n          \"partnerType\": \"BillTo\",\r\n          \"companyData\": {\r\n            \"name\": \"\",\r\n            \"phones\": \"\"\r\n          },\r\n          \"personData\": {\r\n            \"firstName\": \"Willem\",\r\n            \"lastName\": \"de Boer\",\r\n            \"fiscalId\": \"\",\r\n            \"phones\": {\r\n              \"phone\": {\r\n                \"type\": \"office\",\r\n                \"value\": \"31555434422\"\r\n              }\r\n            },\r\n            \"emails\": {\r\n              \"email\": {\r\n                \"type\": \"email\",\r\n                \"value\": \"wim_deboer@moduslink.com\"\r\n              }\r\n            },\r\n            \"locale\": \"nl-NL\"\r\n          },\r\n          \"addressData\": {\r\n            \"addressLines\": {\r\n              \"address\": {\r\n                \"line\": \"1\",\r\n                \"value\": \"Wapenrustlaan 11\"\r\n              }\r\n            },\r\n            \"postalCode\": \"7321DL\",\r\n            \"city\": \"Apeldoorn\",\r\n            \"countryISO2\": \"NL\"\r\n          }\r\n        },\r\n        {\r\n          \"partnerType\": \"ShipTo\",\r\n          \"companyData\": {\r\n            \"name\": \"\",\r\n            \"phones\": \"\"\r\n          },\r\n          \"personData\": {\r\n            \"firstName\": \"Willem\",\r\n            \"lastName\": \"de Boer\",\r\n             \"phones\": {\r\n              \"phone\": {\r\n                \"type\": \"office\",\r\n                \"value\": \"31555434422\"\r\n              }\r\n            },\r\n            \"emails\": {\r\n              \"email\": {\r\n                \"type\": \"email\",\r\n                \"value\": \"wim_deboer@moduslink.com\"\r\n              }\r\n            },\r\n            \"locale\": \"nl-NL\"\r\n          },\r\n          \"addressData\": {\r\n            \"addressLines\": {\r\n              \"address\": {\r\n                \"line\": \"1\",\r\n                \"value\": \"Wapenrustlaan 11\"\r\n              }\r\n            },\r\n            \"postalCode\": \"7321DL\",\r\n            \"city\": \"Apeldoorn\",\r\n            \"countryISO2\": \"NL\"\r\n          }\r\n        }\r\n      ]\r\n    },\r\n    \"items\": {\r\n      \"item\": {\r\n        \"itemId\": \"1\",\r\n        \"clientItemRef\": \"\",\r\n        \"sku\": \"20980394\",\r\n        \"quantity\": {\r\n          \"uom\": \"EA\",\r\n          \"value\": \"1\"\r\n        },\r\n        \"amounts\": {\r\n          \"amount\": [\r\n            {\r\n              \"currency\": \"EUR\",\r\n              \"type\": \"grossprice\",\r\n              \"value\": \"50.00\"\r\n            },\r\n            {\r\n              \"currency\": \"EUR\",\r\n              \"type\": \"netprice\",\r\n              \"value\": \"50\"\r\n            }\r\n          ]\r\n        },\r\n        \"dateTimes\": {\r\n          \"dateTime\": {\r\n            \"type\": \"created\",\r\n            \"value\": \"2018-02-06T13:18:37 +00.00\"\r\n          }\r\n        },\r\n        \"taxLevel\": \"PHYSICAL\",\r\n        \"taxFactor\": \"1.000\",\r\n        \"pricing\": \"grossprice\",\r\n        \"localizedDescription\": \"Localised description\",\r\n        \"dynamicFields\": {\r\n          \"dynamicField\": [\r\n            {\r\n              \"name\": \"CO_CAR_MAKE\",\r\n              \"value\": \"Honda\"\r\n            },\r\n            {\r\n              \"name\": \"VIN\",\r\n              \"value\": \"1001001212121\"\r\n            },\r\n            {\r\n              \"name\": \"VAT_FACTOR\",\r\n              \"value\": \"1.000\"\r\n            }\r\n          ]\r\n        }\r\n      }\r\n    }\r\n  }\r\n}",
+			"headers": "ClientConfigId: 114\nClientAuthKey: 43006300-9E2A-4ED5-A001-126712985994\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "a07b09eb-2e60-4d45-8f2f-01913f68c8f0",
+			"name": "Create RMA Token",
+			"url": "https://moduslink-uat.azure-api.net/rmaportalapi/v1/rmaTokens",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "ce8e28a1-9714-4e13-beeb-37eb3cf54d2e",
+			"rawModeData": "{\r\n\t\"requestHeader\": {\r\n\t\t\"externalMessageReference\": \"TAS_BT16_ISS8111_2_R\",\r\n\t\t\"requestReference\": \"TAS_BT16_ISS8111_2_R\"\r\n\t},\r\n\t\"rma\": {\r\n\t\t\"returnReason\": \"Product is damaged in Shipping\",\r\n\t\t\"userReference\": \"Willem de Boer\",\r\n\t\t\"transactionId\": \"25a5ae5b-51fd-4250-9e6b-11ae149c8dcf\",\r\n\t\t\"language\": \"en\",\r\n\t\t\"clientReturnURL\": \"https://google.com\",\r\n\t\t\"amount\": {\r\n\t\t\t\"type\": \"totalGross\",\r\n\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\"value\": \"242.00\"\r\n\t\t},\r\n\t\t\"dateTime\": {\r\n\t\t\t\"type\": \"order\",\r\n\t\t\t\"value\": \"2018-02-08T15:45:58 +00.00\"\r\n\t\t},\r\n\t\t\"dynamicField\": [{\r\n\t\t\t\t\"name\": \"RMAOrderRef\",\r\n\t\t\t\t\"value\": \"TAS_BT16_ISS8111_2_R\"\r\n\t\t\t},\r\n\t\t\t{\r\n\t\t\t\t\"name\": \"name\",\r\n\t\t\t\t\"value\": \"Value\"\r\n\t\t\t}\r\n\t\t]\r\n\t},\r\n\t\"partner\": [{\r\n\t\t\t\"partnerType\": \"BillTo\",\r\n\t\t\t\"companyData\": {\r\n\t\t\t\t\"name\": \"Company name\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"office\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t}\r\n\t\t\t},\r\n\t\t\t\"personData\": {\r\n\t\t\t\t\"firstName\": \"John_GB\",\r\n\t\t\t\t\"lastName\": \"Doe_GB\",\r\n\t\t\t\t\"fiscalid\": \"VAT_number\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"home\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t},\r\n\t\t\t\t\"email\": {\r\n\t\t\t\t\t\"type\": \"email\",\r\n\t\t\t\t\t\"value\": \"wdeboer@moduslink.com\"\r\n\t\t\t\t},\r\n\t\t\t\t\"locale\": \"en-GB\"\r\n\t\t\t},\r\n\t\t\t\"addressData\": {\r\n\t\t\t\t\"address\": [{\r\n\t\t\t\t\t\t\"line\": \"1\",\r\n\t\t\t\t\t\t\"value\": \"Lakeside Rd\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"line\": \"2\",\r\n\t\t\t\t\t\t\"value\": \"27\"\r\n\t\t\t\t\t}\r\n\t\t\t\t],\r\n\t\t\t\t\"postalCode\": \"N13 4PS\",\r\n\t\t\t\t\"city\": \"London\",\r\n\t\t\t\t\"countryName\": \"United Kingdom\",\r\n\t\t\t\t\"countryISO3\": \"GBR\"\r\n\t\t\t}\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"partnerType\": \"ShipTo\",\r\n\t\t\t\"companyData\": {\r\n\t\t\t\t\"name\": \"Company name\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"office\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t}\r\n\t\t\t},\r\n\t\t\t\"personData\": {\r\n\t\t\t\t\"firstName\": \"John_GB\",\r\n\t\t\t\t\"lastName\": \"Doe_GB\",\r\n\t\t\t\t\"fiscalid\": \"VAT_number\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"home\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t},\r\n\t\t\t\t\"email\": {\r\n\t\t\t\t\t\"type\": \"email\",\r\n\t\t\t\t\t\"value\": \"rene_schoeman@moduslink.com\"\r\n\t\t\t\t},\r\n\t\t\t\t\"locale\": \"en-GB\"\r\n\t\t\t},\r\n\t\t\t\"addressData\": {\r\n\t\t\t\t\"address\": [{\r\n\t\t\t\t\t\t\"line\": \"1\",\r\n\t\t\t\t\t\t\"value\": \"Lakeside Rd\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"line\": \"2\",\r\n\t\t\t\t\t\t\"value\": \"27\"\r\n\t\t\t\t\t}\r\n\t\t\t\t],\r\n\t\t\t\t\"postalCode\": \"N13 4PS\",\r\n\t\t\t\t\"city\": \"London\",\r\n\t\t\t\t\"countryName\": \"United Kingdom\",\r\n\t\t\t\t\"countryISO3\": \"GBR\"\r\n\t\t\t}\r\n\t\t}\r\n\t],\r\n\t\"item\": [{\r\n\t\t\t\"sku\": \"131270\",\r\n\t\t\t\"itemDescription\": \"Description\",\r\n\t\t\t\"quantity\": {\r\n\t\t\t\t\"uom\": \"EA\",\r\n\t\t\t\t\"value\": \"15\"\r\n\t\t\t},\r\n\t\t\t\"amount\": [{\r\n\t\t\t\t\t\"type\": \"netprice\",\r\n\t\t\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"type\": \"totaltax\",\r\n\t\t\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\t\t\"value\": \"0.00\"\r\n\t\t\t\t}\r\n\t\t\t],\r\n\t\t\t\"dynamicField\": [{\r\n\t\t\t\t\t\"name\": \"RMALineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMAOrderLineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMALinePrice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t}\r\n\t\t\t]\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"sku\": \"131270\",\r\n\t\t\t\"itemDescription\": \"Description\",\r\n\t\t\t\"quantity\": {\r\n\t\t\t\t\"uom\": \"EA\",\r\n\t\t\t\t\"value\": \"15\"\r\n\t\t\t},\r\n\t\t\t\"amount\": [{\r\n\t\t\t\t\t\"type\": \"netprice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"type\": \"totaltax\",\r\n\t\t\t\t\t\"value\": \"0.00\"\r\n\t\t\t\t}\r\n\t\t\t],\r\n\t\t\t\"dynamicField\": [{\r\n\t\t\t\t\t\"name\": \"RMALineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMAOrderLineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMALinePrice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t}\r\n\t\t\t]\r\n\t\t}\r\n\t]\r\n}",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "a1f83197-5772-4bc6-aed8-320eb2dd9065",
+			"name": "Create an Order",
+			"url": "https://moduslink-dev.azure-api.net/fullfillmentapi/v1/orders",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "119",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "5C0FDFDE-B714-42AE-BF4B-EB5E1409C53D",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "21516404-b2cc-4427-8a8c-6733b5cc039e",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 201\", function () {",
+							"    pm.response.to.have.status(201);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+			"rawModeData": "{\r\n  \"clientRequest\": {\r\n    \"requestHeader\": {\r\n      \"externalMessageReference\": \"HERE-RD-6-000597\",\r\n      \"requestReference\": \"HERE-RD-6-000597\",\r\n      \"dateTimes\": {\r\n        \"dateTime\": [\r\n          {\r\n            \"type\": \"sent\",\r\n            \"value\": \"2018-01-06T00:00:00 +00.00\"\r\n          },\r\n          {\r\n            \"type\": \"received\",\r\n            \"value\": \"2018-02-06T13:18:37 +00.00\"\r\n          }\r\n        ]\r\n      }\r\n    },\r\n    \"order\": {\r\n      \"status\": \"created\",\r\n      \"shipCourier\": \"\",\r\n      \"shipServiceLevel\": \"12\",\r\n      \"shipServiceOption\": \"\",\r\n      \"incoTerms1\": \"CPT\",\r\n      \"incoTerms2\": \"\",\r\n      \"amounts\": {\r\n        \"amount\": [\r\n          {\r\n            \"currency\": \"USD\",\r\n            \"type\": \"totalNet\",\r\n            \"value\": \"100.00\"\r\n          },\r\n          {\r\n            \"currency\": \"USD\",\r\n            \"type\": \"totalTax\",\r\n            \"value\": \"0.00\"\r\n          },\r\n          {\r\n            \"currency\": \"USD\",\r\n            \"type\": \"totalGross\",\r\n            \"value\": \"100.00\"\r\n          }\r\n        ]\r\n      },\r\n      \"dateTimes\": {\r\n        \"dateTime\": {\r\n          \"type\": \"wantedDeliveryDate\",\r\n          \"value\": \"2018-02-06T13:18:37 +00.00\"\r\n        }\r\n      },\r\n      \"notes\": \"\",\r\n      \"dynamicFields\": \"\"\r\n    },\r\n    \"payments\": {\r\n      \"payment\": {\r\n        \"paymentMethod\": \"Visa\",\r\n        \"Invoiceid\": \"\",\r\n        \"entityId\": \"ff8080813e835e83013e8d2fb3da0472\",\r\n        \"transactionId\": \"8a82944a5fa67f48015fb56c5f601ae7\",\r\n        \"acquirerId\": \"123456\",\r\n        \"amounts\": {\r\n          \"amount\": [\r\n            {\r\n              \"type\": \"capture\",\r\n              \"currency\": \"USD\",\r\n              \"value\": \"100\"\r\n            },\r\n            {\r\n              \"currency\": \"USD\",\r\n              \"type\": \"authorized\",\r\n              \"value\": \"100.00\"\r\n            },\r\n            {\r\n              \"currency\": \"USD\",\r\n              \"type\": \"created\",\r\n              \"value\": \"100.00\"\r\n            }\r\n          ]\r\n        },\r\n        \"status\": \"authorized\",\r\n        \"cardData\": {\r\n          \"holder\": \"W de Boer\",\r\n          \"bin\": \"411111\",\r\n          \"last4digits\": \"1111\",\r\n          \"dateTimes\": {\r\n            \"dateTime\": [\r\n              {\r\n                \"type\": \"cardExpiryDate\",\r\n                \"value\": \"2019-12-01T00:00:00 +00.00\"\r\n              },\r\n              {\r\n                \"type\": \"authExpiryDate\",\r\n                \"value\": \"2019-09-21T00:00:00 +00.00\"\r\n              }\r\n            ]\r\n          }\r\n        }\r\n      }\r\n    },\r\n    \"partners\": {\r\n      \"partner\": [\r\n        {\r\n          \"partnerType\": \"BillTo\",\r\n          \"companyData\": {\r\n            \"name\": \"\",\r\n            \"phones\": \"\"\r\n          },\r\n          \"personData\": {\r\n            \"firstName\": \"Willem\",\r\n            \"lastName\": \"de Boer\",\r\n            \"fiscalId\": \"\",\r\n            \"phones\": {\r\n              \"phone\": {\r\n                \"type\": \"office\",\r\n                \"value\": \"31555434422\"\r\n              }\r\n            },\r\n            \"emails\": {\r\n              \"email\": {\r\n                \"type\": \"email\",\r\n                \"value\": \"wim_deboer@moduslink.com\"\r\n              }\r\n            },\r\n            \"locale\": \"nl-NL\"\r\n          },\r\n          \"addressData\": {\r\n            \"addressLines\": {\r\n              \"address\": {\r\n                \"line\": \"1\",\r\n                \"value\": \"Wapenrustlaan 11\"\r\n              }\r\n            },\r\n            \"postalCode\": \"7321DL\",\r\n            \"city\": \"Apeldoorn\",\r\n            \"countryISO2\": \"NL\"\r\n          }\r\n        },\r\n        {\r\n          \"partnerType\": \"ShipTo\",\r\n          \"companyData\": {\r\n            \"name\": \"Starter Store Online Company\",\r\n            \"phones\": \"\"\r\n          },\r\n          \"personData\": {\r\n            \"firstName\": \"Willem\",\r\n            \"lastName\": \"de Boer\",\r\n             \"phones\": {\r\n              \"phone\": {\r\n                \"type\": \"office\",\r\n                \"value\": \"31555434422\"\r\n              }\r\n            },\r\n            \"emails\": {\r\n              \"email\": {\r\n                \"type\": \"email\",\r\n                \"value\": \"wim_deboer@moduslink.com\"\r\n              }\r\n            },\r\n            \"locale\": \"nl-NL\"\r\n          },\r\n          \"addressData\": {\r\n            \"addressLines\": {\r\n              \"address\": {\r\n                \"line\": \"1601 Trapelo Rd,Suite 170\",\r\n                \"value\": \"Waltham, MA 02451\"\r\n              }\r\n            },\r\n            \"postalCode\": \"02451\",\r\n            \"city\": \"Waltham\",\r\n            \"countryISO2\": \"MA\"\r\n          }\r\n        }\r\n      ]\r\n    },\r\n    \"items\": {\r\n      \"item\": {\r\n        \"itemId\": \"1\",\r\n        \"clientItemRef\": \"\",\r\n        \"sku\": \"20980394\",\r\n        \"quantity\": {\r\n          \"uom\": \"EA\",\r\n          \"value\": \"1\"\r\n        },\r\n        \"amounts\": {\r\n          \"amount\": [\r\n            {\r\n              \"currency\": \"USD\",\r\n              \"type\": \"grossprice\",\r\n              \"value\": \"50.00\"\r\n            },\r\n            {\r\n              \"currency\": \"USD\",\r\n              \"type\": \"netprice\",\r\n              \"value\": \"50\"\r\n            }\r\n          ]\r\n        },\r\n        \"dateTimes\": {\r\n          \"dateTime\": {\r\n            \"type\": \"created\",\r\n            \"value\": \"2018-02-06T13:18:37 +00.00\"\r\n          }\r\n        },\r\n        \"taxLevel\": \"PHYSICAL\",\r\n        \"taxFactor\": \"1.000\",\r\n        \"pricing\": \"grossprice\",\r\n        \"localizedDescription\": \"Localised description\",\r\n        \"dynamicFields\": {\r\n          \"dynamicField\": [\r\n            {\r\n              \"name\": \"CO_CAR_MAKE\",\r\n              \"value\": \"Honda\"\r\n            },\r\n            {\r\n              \"name\": \"VIN\",\r\n              \"value\": \"1001001212121\"\r\n            },\r\n            {\r\n              \"name\": \"VAT_FACTOR\",\r\n              \"value\": \"1.000\"\r\n            }\r\n          ]\r\n        }\r\n      }\r\n    }\r\n  }\r\n}",
+			"headers": "ClientConfigId: 119\nClientAuthKey: 5C0FDFDE-B714-42AE-BF4B-EB5E1409C53D\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "a488faf7-73c8-4236-916d-1f8d1a46a7ac",
+			"name": "Install BDD",
+			"url": "http://bigstickcarpet.com/postman-bdd/dist/postman-bdd.js",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"//install bdd",
+							"postman.setGlobalVariable('postmanBDD',responseBody);"
+						]
+					}
+				}
+			],
+			"folder": "43e93a4c-be7f-4d88-a6c6-947b9050a458",
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "ab01737e-c9b2-4a06-9ee0-de07f797fc8c",
+			"name": "Calculate Tax Details -ccid-114",
+			"url": "https://moduslink-dev.azure-api.net/tax/v1/calculateTaxDetails",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "114",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "43006300-9E2A-4ED5-A001-126712985994",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"enabled": true
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "3b105381-fc96-4805-b5ab-315de9cdc241",
+			"rawModeData": "{\r\n\t\"calculateTaxRequest\": {\r\n\t\t\"calculateTaxDetail\": {\r\n\t\t\t\"order\": {\r\n\t\t\t\t\"amountType\": \"NET_VALUE\",\r\n\t\t\t\t\"isCustomerCompany\": \"false\",\r\n\t\t\t\t\"buyerTaxNumber\": \"FR66502602220\",\r\n\t\t\t\t\"orderItem\": [{\r\n\t\t\t\t\t\"itemClass\": \"PHYSICAL\",\r\n\t\t\t\t\t\"itemSku\": \"2007181\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"100.00\"\r\n\t\t\t\t}, {\r\n\t\t\t\t\t\"itemClass\": \"SERVICE\",\r\n\t\t\t\t\t\"itemSku\": \"1103457\",\r\n\t\t\t\t\t\"qty\": \"1\",\r\n\t\t\t\t\t\"price\": \"25.00\"\r\n\t\t\t\t}],\r\n\t\t\t\t\"currency\": \"EUR\"\r\n\t\t\t},\r\n\t\t\t\"shipFrom\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t},\r\n\t\t\t\"shipTo\": {\r\n\t\t\t\t\"location\": \"NA\",\r\n\t\t\t\t\"city\": \"batavia\",\r\n\t\t\t\t\"stateProv\": \"IL\",\r\n\t\t\t\t\"postalCode\": \"60510\",\r\n\t\t\t\t\"country\": \"US\"\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n}",
+			"headers": "ClientConfigId: 114\nClientAuthKey: 43006300-9E2A-4ED5-A001-126712985994\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "ac8aedfa-b7b3-4cae-b2ce-f905b55205e8",
+			"name": "Install BDD",
+			"url": "http://bigstickcarpet.com/postman-bdd/dist/postman-bdd.js",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"//install bdd",
+							"postman.setGlobalVariable('postmanBDD',responseBody);"
+						]
+					}
+				}
+			],
+			"folder": "532a9831-5d55-4b1a-a09f-fd4684a31f22",
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "b5a39553-08d4-4ab8-942b-694659f79613",
+			"name": "Retrieve Inventory Details Invalid URI",
+			"url": "https://moduslink-dev.azure-api.net/productapi/v2/inventory?sku=A3DGL-501,ABBRD-001",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "sku",
+					"value": "A3DGL-501,ABBRD-001",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "719a67f3-3975-49e6-93a7-3f393eaaf9fe",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 404\", function () {",
+							"    pm.response.to.have.status(404);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "8981384a-bcdf-4847-9670-61a8c6737228",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "b626a927-8e52-4162-bd50-0ccc4e75c76d",
+			"name": "Retrieve All Order Details -- Pass",
+			"url": "https://moduslink-dev.azure-api.net/fullfillmentapi/v1/orders",
+			"description": null,
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "05e82361-2401-4438-bb02-2ffa078e4e2a",
+						"type": "text/javascript",
+						"exec": [
+							"",
+							"// example using response assertions",
+							"pm.test(\"response should be okay to process\", function () { ",
+							"    pm.response.to.not.be.error; ",
+							"    pm.response.to.have.jsonBody(\"\"); ",
+							"    pm.response.to.not.have.jsonBody(\"error\"); ",
+							"   ",
+							"});",
+							" ",
+							"pm.test(\"Response time is less than 999ms\", function () {",
+							"    pm.expect(pm.response.responseTime).to.be.below(3000);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "bb9e5981-8831-4952-a5d9-b58b39f029e7",
+			"name": "Install BDD",
+			"url": "http://bigstickcarpet.com/postman-bdd/dist/postman-bdd.js",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"//install bdd",
+							"postman.setGlobalVariable('postmanBDD',responseBody);"
+						]
+					}
+				}
+			],
+			"folder": "2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "c0977bb0-b3a6-47e6-9351-53c9f1d29b57",
+			"name": "Install BDD",
+			"url": "http://bigstickcarpet.com/postman-bdd/dist/postman-bdd.js",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"//install bdd",
+							"postman.setGlobalVariable('postmanBDD',responseBody);"
+						]
+					}
+				}
+			],
+			"folder": "b446e7ee-b675-4db9-b911-853179f34f64",
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "c7d2d014-7f13-456f-ad4d-75d2c6b01da5",
+			"name": "Retrieve Specific Order Details- Non-Existing ID ID-Fail",
+			"url": "https://moduslink-dev.azure-api.net/fullfillmentapi/v1/orders/190026000",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "ab400afd-d956-433d-b19d-88ff22d4f87a",
+						"type": "text/javascript",
+						"exec": [
+							"// Non Existing Order ID : Should fail with 404",
+							"pm.test(\"Status code is 404\", function () {",
+							"    pm.response.to.have.status(404);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "ca646444-be99-4791-be79-55d5b1fe9de5",
+			"name": "Retrieve RMA Token",
+			"url": "https://moduslink-uat.azure-api.net/rmaportalapi/v1/rmaTokens?requestReference=TAS_BT16_ISS8111_2_R",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "requestReference",
+					"value": "TAS_BT16_ISS8111_2_R",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "ce8e28a1-9714-4e13-beeb-37eb3cf54d2e",
+			"rawModeData": "{\r\n\t\"requestHeader\": {\r\n\t\t\"externalMessageReference\": \"TAS_BT16_ISS8111_2_R\",\r\n\t\t\"requestReference\": \"TAS_BT16_ISS8111_2_R\"\r\n\t},\r\n\t\"rma\": {\r\n\t\t\"returnReason\": \"Product is damaged in Shipping\",\r\n\t\t\"userReference\": \"Willem de Boer\",\r\n\t\t\"transactionId\": \"25a5ae5b-51fd-4250-9e6b-11ae149c8dcf\",\r\n\t\t\"language\": \"en\",\r\n\t\t\"clientReturnURL\": \"https://google.com\",\r\n\t\t\"amount\": {\r\n\t\t\t\"type\": \"totalGross\",\r\n\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\"value\": \"242.00\"\r\n\t\t},\r\n\t\t\"dateTime\": {\r\n\t\t\t\"type\": \"order\",\r\n\t\t\t\"value\": \"2018-02-08T15:45:58 +00.00\"\r\n\t\t},\r\n\t\t\"dynamicField\": [{\r\n\t\t\t\t\"name\": \"RMAOrderRef\",\r\n\t\t\t\t\"value\": \"TAS_BT16_ISS8111_2_R\"\r\n\t\t\t},\r\n\t\t\t{\r\n\t\t\t\t\"name\": \"name\",\r\n\t\t\t\t\"value\": \"Value\"\r\n\t\t\t}\r\n\t\t]\r\n\t},\r\n\t\"partner\": [{\r\n\t\t\t\"partnerType\": \"BillTo\",\r\n\t\t\t\"companyData\": {\r\n\t\t\t\t\"name\": \"Company name\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"office\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t}\r\n\t\t\t},\r\n\t\t\t\"personData\": {\r\n\t\t\t\t\"firstName\": \"John_GB\",\r\n\t\t\t\t\"lastName\": \"Doe_GB\",\r\n\t\t\t\t\"fiscalid\": \"VAT_number\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"home\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t},\r\n\t\t\t\t\"email\": {\r\n\t\t\t\t\t\"type\": \"email\",\r\n\t\t\t\t\t\"value\": \"wdeboer@moduslink.com\"\r\n\t\t\t\t},\r\n\t\t\t\t\"locale\": \"en-GB\"\r\n\t\t\t},\r\n\t\t\t\"addressData\": {\r\n\t\t\t\t\"address\": [{\r\n\t\t\t\t\t\t\"line\": \"1\",\r\n\t\t\t\t\t\t\"value\": \"Lakeside Rd\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"line\": \"2\",\r\n\t\t\t\t\t\t\"value\": \"27\"\r\n\t\t\t\t\t}\r\n\t\t\t\t],\r\n\t\t\t\t\"postalCode\": \"N13 4PS\",\r\n\t\t\t\t\"city\": \"London\",\r\n\t\t\t\t\"countryName\": \"United Kingdom\",\r\n\t\t\t\t\"countryISO3\": \"GBR\"\r\n\t\t\t}\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"partnerType\": \"ShipTo\",\r\n\t\t\t\"companyData\": {\r\n\t\t\t\t\"name\": \"Company name\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"office\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t}\r\n\t\t\t},\r\n\t\t\t\"personData\": {\r\n\t\t\t\t\"firstName\": \"John_GB\",\r\n\t\t\t\t\"lastName\": \"Doe_GB\",\r\n\t\t\t\t\"fiscalid\": \"VAT_number\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"home\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t},\r\n\t\t\t\t\"email\": {\r\n\t\t\t\t\t\"type\": \"email\",\r\n\t\t\t\t\t\"value\": \"rene_schoeman@moduslink.com\"\r\n\t\t\t\t},\r\n\t\t\t\t\"locale\": \"en-GB\"\r\n\t\t\t},\r\n\t\t\t\"addressData\": {\r\n\t\t\t\t\"address\": [{\r\n\t\t\t\t\t\t\"line\": \"1\",\r\n\t\t\t\t\t\t\"value\": \"Lakeside Rd\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"line\": \"2\",\r\n\t\t\t\t\t\t\"value\": \"27\"\r\n\t\t\t\t\t}\r\n\t\t\t\t],\r\n\t\t\t\t\"postalCode\": \"N13 4PS\",\r\n\t\t\t\t\"city\": \"London\",\r\n\t\t\t\t\"countryName\": \"United Kingdom\",\r\n\t\t\t\t\"countryISO3\": \"GBR\"\r\n\t\t\t}\r\n\t\t}\r\n\t],\r\n\t\"item\": [{\r\n\t\t\t\"sku\": \"131270\",\r\n\t\t\t\"itemDescription\": \"Description\",\r\n\t\t\t\"quantity\": {\r\n\t\t\t\t\"uom\": \"EA\",\r\n\t\t\t\t\"value\": \"15\"\r\n\t\t\t},\r\n\t\t\t\"amount\": [{\r\n\t\t\t\t\t\"type\": \"netprice\",\r\n\t\t\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"type\": \"totaltax\",\r\n\t\t\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\t\t\"value\": \"0.00\"\r\n\t\t\t\t}\r\n\t\t\t],\r\n\t\t\t\"dynamicField\": [{\r\n\t\t\t\t\t\"name\": \"RMALineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMAOrderLineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMALinePrice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t}\r\n\t\t\t]\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"sku\": \"131270\",\r\n\t\t\t\"itemDescription\": \"Description\",\r\n\t\t\t\"quantity\": {\r\n\t\t\t\t\"uom\": \"EA\",\r\n\t\t\t\t\"value\": \"15\"\r\n\t\t\t},\r\n\t\t\t\"amount\": [{\r\n\t\t\t\t\t\"type\": \"netprice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"type\": \"totaltax\",\r\n\t\t\t\t\t\"value\": \"0.00\"\r\n\t\t\t\t}\r\n\t\t\t],\r\n\t\t\t\"dynamicField\": [{\r\n\t\t\t\t\t\"name\": \"RMALineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMAOrderLineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMALinePrice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t}\r\n\t\t\t]\r\n\t\t}\r\n\t]\r\n}",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "d792228d-eaca-4d57-ace6-aaa6bc5d27ec",
+			"name": "Retrieve All Order Details-Wrong Client Code-Failed",
+			"url": "https://moduslink-uat.azure-api.net/fullfillmentapi/v1/orders",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "490",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0b825ae0-4b30-4878-8357-a8f562d16b00",
+						"type": "text/javascript",
+						"exec": [
+							"//Access denied due to WRONG Client Code",
+							"pm.test(\"Status code is 500\", function () {",
+							"    pm.response.to.have.status(500);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+			"headers": "ClientConfigId: 490\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "e103017a-efc4-4b16-8444-b824e3a1aff2",
+			"name": "Retrieve RMA",
+			"url": "https://moduslink-dev.azure-api.net/fullfillmentapi/v1/rmas",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "e6d155bb-4dc4-480e-ad2b-44ddc03fcac2",
+			"name": "Retrieve Inventory Details using SKU ID",
+			"url": "https://moduslink-uat.azure-api.net/productapi/v1/inventory?sku=A3DGL-501,ABBRD-001",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "sku",
+					"value": "A3DGL-501,ABBRD-001",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "532a9831-5d55-4b1a-a09f-fd4684a31f22",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "ebb4af97-e293-4ae3-8d0c-ac55beaa013e",
+			"name": "Create Inventory Snapshot",
+			"url": "https://moduslink-uat.azure-api.net/productapi/v1/setInventorySnapshot",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "532a9831-5d55-4b1a-a09f-fd4684a31f22",
+			"rawModeData": "{\r\n\t\"inventory\": [{\r\n\t\t\"sku\": \"10010809\",\r\n\t\t\"qty\": 1411,\r\n\t\t\"stockLocationName\": \"RBEMEA\"\r\n\t}, {\r\n\t\t\"sku\": \"10022457\",\r\n\t\t\"qty\": 1216,\r\n\t\t\"stockLocationName\": \"RBEMEA\"\r\n\t}]\r\n}",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "f0f9e140-9c90-46a0-be69-043b828b2c4f",
+			"name": "Create RMA Token",
+			"url": "https://moduslink-dev.azure-api.net/rmaportalapi/v1/rmaTokens",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "0cdca348-14e1-4cb4-8df3-f4757934b453",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {",
+							"    pm.response.to.have.status(200);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "5e201c9d-e274-4f39-9027-9d0ce044bdd8",
+			"rawModeData": "{\r\n\t\"requestHeader\": {\r\n\t\t\"externalMessageReference\": \"TAS_BT16_ISS8111_2_R\",\r\n\t\t\"requestReference\": \"TAS_BT16_ISS8111_2_R\"\r\n\t},\r\n\t\"rma\": {\r\n\t\t\"returnReason\": \"Product is damaged in Shipping\",\r\n\t\t\"userReference\": \"Willem de Boer\",\r\n\t\t\"transactionId\": \"25a5ae5b-51fd-4250-9e6b-11ae149c8dcf\",\r\n\t\t\"language\": \"en\",\r\n\t\t\"clientReturnURL\": \"https://google.com\",\r\n\t\t\"amount\": {\r\n\t\t\t\"type\": \"totalGross\",\r\n\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\"value\": \"242.00\"\r\n\t\t},\r\n\t\t\"dateTime\": {\r\n\t\t\t\"type\": \"order\",\r\n\t\t\t\"value\": \"2018-02-08T15:45:58 +00.00\"\r\n\t\t},\r\n\t\t\"dynamicField\": [{\r\n\t\t\t\t\"name\": \"RMAOrderRef\",\r\n\t\t\t\t\"value\": \"TAS_BT16_ISS8111_2_R\"\r\n\t\t\t},\r\n\t\t\t{\r\n\t\t\t\t\"name\": \"name\",\r\n\t\t\t\t\"value\": \"Value\"\r\n\t\t\t}\r\n\t\t]\r\n\t},\r\n\t\"partner\": [{\r\n\t\t\t\"partnerType\": \"BillTo\",\r\n\t\t\t\"companyData\": {\r\n\t\t\t\t\"name\": \"Company name\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"office\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t}\r\n\t\t\t},\r\n\t\t\t\"personData\": {\r\n\t\t\t\t\"firstName\": \"John_GB\",\r\n\t\t\t\t\"lastName\": \"Doe_GB\",\r\n\t\t\t\t\"fiscalid\": \"VAT_number\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"home\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t},\r\n\t\t\t\t\"email\": {\r\n\t\t\t\t\t\"type\": \"email\",\r\n\t\t\t\t\t\"value\": \"wdeboer@moduslink.com\"\r\n\t\t\t\t},\r\n\t\t\t\t\"locale\": \"en-GB\"\r\n\t\t\t},\r\n\t\t\t\"addressData\": {\r\n\t\t\t\t\"address\": [{\r\n\t\t\t\t\t\t\"line\": \"1\",\r\n\t\t\t\t\t\t\"value\": \"Lakeside Rd\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"line\": \"2\",\r\n\t\t\t\t\t\t\"value\": \"27\"\r\n\t\t\t\t\t}\r\n\t\t\t\t],\r\n\t\t\t\t\"postalCode\": \"N13 4PS\",\r\n\t\t\t\t\"city\": \"London\",\r\n\t\t\t\t\"countryName\": \"United Kingdom\",\r\n\t\t\t\t\"countryISO3\": \"GBR\"\r\n\t\t\t}\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"partnerType\": \"ShipTo\",\r\n\t\t\t\"companyData\": {\r\n\t\t\t\t\"name\": \"Company name\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"office\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t}\r\n\t\t\t},\r\n\t\t\t\"personData\": {\r\n\t\t\t\t\"firstName\": \"John_GB\",\r\n\t\t\t\t\"lastName\": \"Doe_GB\",\r\n\t\t\t\t\"fiscalid\": \"VAT_number\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"home\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t},\r\n\t\t\t\t\"email\": {\r\n\t\t\t\t\t\"type\": \"email\",\r\n\t\t\t\t\t\"value\": \"rene_schoeman@moduslink.com\"\r\n\t\t\t\t},\r\n\t\t\t\t\"locale\": \"en-GB\"\r\n\t\t\t},\r\n\t\t\t\"addressData\": {\r\n\t\t\t\t\"address\": [{\r\n\t\t\t\t\t\t\"line\": \"1\",\r\n\t\t\t\t\t\t\"value\": \"Lakeside Rd\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"line\": \"2\",\r\n\t\t\t\t\t\t\"value\": \"27\"\r\n\t\t\t\t\t}\r\n\t\t\t\t],\r\n\t\t\t\t\"postalCode\": \"N13 4PS\",\r\n\t\t\t\t\"city\": \"London\",\r\n\t\t\t\t\"countryName\": \"United Kingdom\",\r\n\t\t\t\t\"countryISO3\": \"GBR\"\r\n\t\t\t}\r\n\t\t}\r\n\t],\r\n\t\"item\": [{\r\n\t\t\t\"sku\": \"131270\",\r\n\t\t\t\"itemDescription\": \"Description\",\r\n\t\t\t\"quantity\": {\r\n\t\t\t\t\"uom\": \"EA\",\r\n\t\t\t\t\"value\": \"15\"\r\n\t\t\t},\r\n\t\t\t\"amount\": [{\r\n\t\t\t\t\t\"type\": \"netprice\",\r\n\t\t\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"type\": \"totaltax\",\r\n\t\t\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\t\t\"value\": \"0.00\"\r\n\t\t\t\t}\r\n\t\t\t],\r\n\t\t\t\"dynamicField\": [{\r\n\t\t\t\t\t\"name\": \"RMALineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMAOrderLineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMALinePrice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t}\r\n\t\t\t]\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"sku\": \"131270\",\r\n\t\t\t\"itemDescription\": \"Description\",\r\n\t\t\t\"quantity\": {\r\n\t\t\t\t\"uom\": \"EA\",\r\n\t\t\t\t\"value\": \"15\"\r\n\t\t\t},\r\n\t\t\t\"amount\": [{\r\n\t\t\t\t\t\"type\": \"netprice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"type\": \"totaltax\",\r\n\t\t\t\t\t\"value\": \"0.00\"\r\n\t\t\t\t}\r\n\t\t\t],\r\n\t\t\t\"dynamicField\": [{\r\n\t\t\t\t\t\"name\": \"RMALineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMAOrderLineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMALinePrice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t}\r\n\t\t\t]\r\n\t\t}\r\n\t]\r\n}",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\nContent-Type: application/json\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "f12e49a6-e290-450d-821b-6fc3ca9ef670",
+			"name": "Retrieve All Order Details -- Invalid URI",
+			"url": "https://moduslink-uat.azure-api.net/fullfillmentapi/v2/orders",
+			"description": null,
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "f8a2b659-edba-4640-a20b-37ceb38f3fce",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 404\", function () {",
+							"    pm.response.to.have.status(404);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "f865bd3a-2ce6-49e8-bb1d-a9bb5aa73023",
+			"name": "Retrieve Specific Order Details- Wrong ID ID-Fail",
+			"url": "https://moduslink-uat.azure-api.net/fullfillmentapi/v1/orders/00010000",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "d12e8eb8-4288-4ef1-bf21-a18b8e7662cb",
+						"type": "text/javascript",
+						"exec": [
+							"// Wrong Order ID : Should fail with 404",
+							"pm.test(\"Status code is 404\", function () {",
+							"    pm.response.to.have.status(404);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "c1c3ea81-cea9-40e0-80bc-52f5ea069fd7",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "fbe6e96b-fd1a-4c47-ab04-28c90ef8ac48",
+			"name": "Install BDD",
+			"url": "http://bigstickcarpet.com/postman-bdd/dist/postman-bdd.js",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							"//install bdd",
+							"postman.setGlobalVariable('postmanBDD',responseBody);"
+						]
+					}
+				}
+			],
+			"folder": "5e201c9d-e274-4f39-9027-9d0ce044bdd8",
+			"headers": "",
+			"pathVariables": {}
+		},
+		{
+			"id": "fbf6d700-d6a5-427d-9c31-fdbd134b3dda",
+			"name": "Retrieve Header Only",
+			"url": "https://moduslink-uat.azure-api.net/echo/resource",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "HEAD",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": "b446e7ee-b675-4db9-b911-853179f34f64",
+			"rawModeData": "{\r\n\t\"vehicleType\": \"train\",\r\n\t\"maxSpeed\": 125,\r\n\t\"avgSpeed\": 90,\r\n\t\"speedUnit\": \"mph\"\r\n\t\t}",
+			"headers": "Ocp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "fe4c7473-ccd3-42f3-8c8e-63070c1eaaea",
+			"name": "Retrieve Header Only",
+			"url": "https://moduslink-uat.azure-api.net/echo/resource[?sample][&123]",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "ea1b402dbd564520afcb8631e416ffa5",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "sample][",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "123]",
+					"value": "",
+					"equals": false,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": [],
+			"folder": "b446e7ee-b675-4db9-b911-853179f34f64",
+			"rawModeData": "{\r\n\t\"vehicleType\": \"train\",\r\n\t\"maxSpeed\": 125,\r\n\t\"avgSpeed\": 90,\r\n\t\"speedUnit\": \"mph\"\r\n\t\t}",
+			"headers": "Ocp-Apim-Subscription-Key: ea1b402dbd564520afcb8631e416ffa5\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "ff485e6b-24b5-4bca-94a3-4eb58c228f1f",
+			"name": "Retrieve All Order Details-Wrong Apim-Subscription-Key--Fail",
+			"url": "https://moduslink-dev.azure-api.net/fullfillmentapi/v1/orders",
+			"description": "",
+			"data": [],
+			"dataMode": "params",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "49",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "429541C7-086B-4228-A269-E8B71C5ECC12",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba1",
+					"enabled": true
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "f65f751a-28c4-47d6-b06f-3ee42faea5e4",
+						"type": "text/javascript",
+						"exec": [
+							"//Access denied due to WRONG Apim-Subscription-Key",
+							"pm.test(\"Status code is 401\", function () {",
+							"    pm.response.to.have.status(401);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "2ccaadca-e49e-4f76-804a-9bb988fce5a5",
+			"headers": "ClientConfigId: 49\nClientAuthKey: 429541C7-086B-4228-A269-E8B71C5ECC12\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba1\n",
+			"pathVariables": {}
+		},
+		{
+			"id": "ff779463-2836-4537-a508-eb91c04536c1",
+			"name": "Retrieve RMA Token Invalid URI",
+			"url": "https://moduslink-dev.azure-api.net/rmaportalapi/v2/rmaTokens?requestReference=TAS_BT16_ISS8111_2_R",
+			"description": "",
+			"data": [],
+			"dataMode": "raw",
+			"headerData": [
+				{
+					"key": "ClientConfigId",
+					"value": "10",
+					"enabled": true
+				},
+				{
+					"key": "ClientAuthKey",
+					"value": "4B5E9346-CC43-46FC-86F6-0B956D26DA4C",
+					"enabled": true
+				},
+				{
+					"key": "Ocp-Apim-Subscription-Key",
+					"value": "1eb69b5485e243809d4bd92c85c311ba",
+					"enabled": true
+				},
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"method": "GET",
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "requestReference",
+					"value": "TAS_BT16_ISS8111_2_R",
+					"equals": true,
+					"description": "",
+					"enabled": true
+				}
+			],
+			"auth": null,
+			"events": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "c0238c9c-0553-4a25-9a4c-fb2fb750361a",
+						"type": "text/javascript",
+						"exec": [
+							"pm.test(\"Status code is 404\", function () {",
+							"    pm.response.to.have.status(404);",
+							"});"
+						]
+					}
+				}
+			],
+			"folder": "5e201c9d-e274-4f39-9027-9d0ce044bdd8",
+			"rawModeData": "{\r\n\t\"requestHeader\": {\r\n\t\t\"externalMessageReference\": \"TAS_BT16_ISS8111_2_R\",\r\n\t\t\"requestReference\": \"TAS_BT16_ISS8111_2_R\"\r\n\t},\r\n\t\"rma\": {\r\n\t\t\"returnReason\": \"Product is damaged in Shipping\",\r\n\t\t\"userReference\": \"Willem de Boer\",\r\n\t\t\"transactionId\": \"25a5ae5b-51fd-4250-9e6b-11ae149c8dcf\",\r\n\t\t\"language\": \"en\",\r\n\t\t\"clientReturnURL\": \"https://google.com\",\r\n\t\t\"amount\": {\r\n\t\t\t\"type\": \"totalGross\",\r\n\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\"value\": \"242.00\"\r\n\t\t},\r\n\t\t\"dateTime\": {\r\n\t\t\t\"type\": \"order\",\r\n\t\t\t\"value\": \"2018-02-08T15:45:58 +00.00\"\r\n\t\t},\r\n\t\t\"dynamicField\": [{\r\n\t\t\t\t\"name\": \"RMAOrderRef\",\r\n\t\t\t\t\"value\": \"TAS_BT16_ISS8111_2_R\"\r\n\t\t\t},\r\n\t\t\t{\r\n\t\t\t\t\"name\": \"name\",\r\n\t\t\t\t\"value\": \"Value\"\r\n\t\t\t}\r\n\t\t]\r\n\t},\r\n\t\"partner\": [{\r\n\t\t\t\"partnerType\": \"BillTo\",\r\n\t\t\t\"companyData\": {\r\n\t\t\t\t\"name\": \"Company name\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"office\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t}\r\n\t\t\t},\r\n\t\t\t\"personData\": {\r\n\t\t\t\t\"firstName\": \"John_GB\",\r\n\t\t\t\t\"lastName\": \"Doe_GB\",\r\n\t\t\t\t\"fiscalid\": \"VAT_number\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"home\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t},\r\n\t\t\t\t\"email\": {\r\n\t\t\t\t\t\"type\": \"email\",\r\n\t\t\t\t\t\"value\": \"wdeboer@moduslink.com\"\r\n\t\t\t\t},\r\n\t\t\t\t\"locale\": \"en-GB\"\r\n\t\t\t},\r\n\t\t\t\"addressData\": {\r\n\t\t\t\t\"address\": [{\r\n\t\t\t\t\t\t\"line\": \"1\",\r\n\t\t\t\t\t\t\"value\": \"Lakeside Rd\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"line\": \"2\",\r\n\t\t\t\t\t\t\"value\": \"27\"\r\n\t\t\t\t\t}\r\n\t\t\t\t],\r\n\t\t\t\t\"postalCode\": \"N13 4PS\",\r\n\t\t\t\t\"city\": \"London\",\r\n\t\t\t\t\"countryName\": \"United Kingdom\",\r\n\t\t\t\t\"countryISO3\": \"GBR\"\r\n\t\t\t}\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"partnerType\": \"ShipTo\",\r\n\t\t\t\"companyData\": {\r\n\t\t\t\t\"name\": \"Company name\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"office\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t}\r\n\t\t\t},\r\n\t\t\t\"personData\": {\r\n\t\t\t\t\"firstName\": \"John_GB\",\r\n\t\t\t\t\"lastName\": \"Doe_GB\",\r\n\t\t\t\t\"fiscalid\": \"VAT_number\",\r\n\t\t\t\t\"phone\": {\r\n\t\t\t\t\t\"type\": \"home\",\r\n\t\t\t\t\t\"value\": \"121212211\"\r\n\t\t\t\t},\r\n\t\t\t\t\"email\": {\r\n\t\t\t\t\t\"type\": \"email\",\r\n\t\t\t\t\t\"value\": \"rene_schoeman@moduslink.com\"\r\n\t\t\t\t},\r\n\t\t\t\t\"locale\": \"en-GB\"\r\n\t\t\t},\r\n\t\t\t\"addressData\": {\r\n\t\t\t\t\"address\": [{\r\n\t\t\t\t\t\t\"line\": \"1\",\r\n\t\t\t\t\t\t\"value\": \"Lakeside Rd\"\r\n\t\t\t\t\t},\r\n\t\t\t\t\t{\r\n\t\t\t\t\t\t\"line\": \"2\",\r\n\t\t\t\t\t\t\"value\": \"27\"\r\n\t\t\t\t\t}\r\n\t\t\t\t],\r\n\t\t\t\t\"postalCode\": \"N13 4PS\",\r\n\t\t\t\t\"city\": \"London\",\r\n\t\t\t\t\"countryName\": \"United Kingdom\",\r\n\t\t\t\t\"countryISO3\": \"GBR\"\r\n\t\t\t}\r\n\t\t}\r\n\t],\r\n\t\"item\": [{\r\n\t\t\t\"sku\": \"131270\",\r\n\t\t\t\"itemDescription\": \"Description\",\r\n\t\t\t\"quantity\": {\r\n\t\t\t\t\"uom\": \"EA\",\r\n\t\t\t\t\"value\": \"15\"\r\n\t\t\t},\r\n\t\t\t\"amount\": [{\r\n\t\t\t\t\t\"type\": \"netprice\",\r\n\t\t\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"type\": \"totaltax\",\r\n\t\t\t\t\t\"currency\": \"GBP\",\r\n\t\t\t\t\t\"value\": \"0.00\"\r\n\t\t\t\t}\r\n\t\t\t],\r\n\t\t\t\"dynamicField\": [{\r\n\t\t\t\t\t\"name\": \"RMALineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMAOrderLineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMALinePrice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t}\r\n\t\t\t]\r\n\t\t},\r\n\t\t{\r\n\t\t\t\"sku\": \"131270\",\r\n\t\t\t\"itemDescription\": \"Description\",\r\n\t\t\t\"quantity\": {\r\n\t\t\t\t\"uom\": \"EA\",\r\n\t\t\t\t\"value\": \"15\"\r\n\t\t\t},\r\n\t\t\t\"amount\": [{\r\n\t\t\t\t\t\"type\": \"netprice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"type\": \"totaltax\",\r\n\t\t\t\t\t\"value\": \"0.00\"\r\n\t\t\t\t}\r\n\t\t\t],\r\n\t\t\t\"dynamicField\": [{\r\n\t\t\t\t\t\"name\": \"RMALineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMAOrderLineRef\",\r\n\t\t\t\t\t\"value\": \"1\"\r\n\t\t\t\t},\r\n\t\t\t\t{\r\n\t\t\t\t\t\"name\": \"RMALinePrice\",\r\n\t\t\t\t\t\"value\": \"7.49\"\r\n\t\t\t\t}\r\n\t\t\t]\r\n\t\t}\r\n\t]\r\n}",
+			"headers": "ClientConfigId: 10\nClientAuthKey: 4B5E9346-CC43-46FC-86F6-0B956D26DA4C\nOcp-Apim-Subscription-Key: 1eb69b5485e243809d4bd92c85c311ba\nContent-Type: application/json\n",
+			"pathVariables": {}
+		}
+	]
+}
